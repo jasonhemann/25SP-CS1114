@@ -6,8 +6,8 @@ main:
     url: /lec/
   - title: "Office Hours"
     url: /office-hours/
-  - title: "Schedule"
-    url: /schedule/
+  # - title: "Schedule"
+  #   url: /schedule/
 
 # sidebar links
 sidebar-site-map:
@@ -17,10 +17,8 @@ sidebar-site-map:
     url: /lec/
   - title: "Office Hours"
     url: /office-hours/
-  - title: "Schedule"
-    url: /schedule/
-  - title: "Piazza"
-    url: https://example.com
+  # - title: "Schedule"
+  #   url: /schedule/
   - title: "People"
     url: /people/
   - title: "Syllabus"
@@ -29,8 +27,6 @@ sidebar-site-map:
     url: /tech/
   - title: "FAQ"
     url: /FAQ/
-  - title: "Site Source"
-    url: https://example.com
   - title: "Enrichment"
     url: /enrichment/
   - title: "How's My Driving?"
