@@ -4,6 +4,10 @@ layout: single
 classes: wide
 ---
 
+## Ancillary Textbook 
+
+[How to Design Programs, 2nd Edition](https://htdp.org/2022-8-7/Book/index.html)
+
 ## Outside Class Videos
 
 - [DrRacketAcademyVideos](https://www.youtube.com/@DrRacketAcademy/videos)
