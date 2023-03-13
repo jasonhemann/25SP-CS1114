@@ -19,5 +19,7 @@ classes: wide
 
 Warning, these are following an additional class.
 
-## Centipede descent behavior
-- [A brilliant article](https://www.retrogamedeconstructionzone.com/2020/11/the-descent-of-centipede-part-1.html)
+## Centipede
+- [The book](http://www.digitpress.com/library/books/book_vmg_centipede.pdf)
+- [Experiments on centipede descent behavior](https://www.retrogamedeconstructionzone.com/2020/11/the-descent-of-centipede-part-1.html)
+- [News report on strategies, if you like](https://youtu.be/G_eGHDJ9igA?t=196)
