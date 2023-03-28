@@ -12,6 +12,7 @@ classes: wide
 
 - [DrRacketAcademyVideos](https://www.youtube.com/@DrRacketAcademy/videos)
 - [DesignRecipeVideos](https://www.youtube.com/@designrecipe/videos)
+<!-- - [HtDP and PLAI](https://www.youtube.com/playlist?list=PLbdXd8eufjyVCEoQQIXISmFbUZHp3-RQ-) -->
 
 ## More exhaustive additional lessons
 - [Kiczales Simple Data](https://www.edx.org/course/how-to-code-simple-data)
