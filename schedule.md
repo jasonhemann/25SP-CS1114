@@ -47,11 +47,11 @@ classes: wide
 | 11    | 4/10/23 | Monday    | NO CLASS |                            |                     |                 |                  |                  |
 | 11    | 4/12/23 | Wednesday |          | `local`                    |                     |                 |                  | Game v2          |
 |-------|---------|-----------|----------|----------------------------|---------------------|-----------------|------------------|------------------|
-| 12    | 4/17/23 | Monday    |          | `foldr`                    |                     |                 | Final Exam: Cent |                  |
+| 12    | 4/17/23 | Monday    |          | `foldr`                    |                     |                 | Final Exam: Snake |                  |
 | 12    | 4/19/23 | Wednesday |          | Decoupling modules         |                     |                 |                  |                  |
 |-------|---------|-----------|----------|----------------------------|---------------------|-----------------|------------------|------------------|
 | 13    | 4/24/23 | Monday    |          | Distributed Programming I  |                     |                 |                  |                  |
-| 13    | 4/26/23 | Wednesday |          | Distributed Programming II |                     |                 |                  | Final Exam: Cent |
+| 13    | 4/26/23 | Wednesday |          | Distributed Programming II |                     |                 |                  | Final Exam: Snake |
 |-------|---------|-----------|----------|----------------------------|---------------------|-----------------|------------------|------------------|
 | 14    | 5/1/23  | Monday    |          | Distributed Gaming I       |                     |                 |                  |                  |
 | 14    | 5/3/23  | Wednesday |          | Distributed Gaming II      |                     |                 | Final Project    |                  |
