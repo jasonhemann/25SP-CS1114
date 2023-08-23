@@ -58,20 +58,22 @@ A great regular way to reach out for help is via our [office hours]({{ site.base
 - **Quizzes**: 30%
 - **Large Software Projects**: 20%
 - **Tutoring Attendance**: 5%
+- **Course Evaluations**: 1%
 
 ## Course Components
 
 ### 1. **Problem Sets**
 
-- Assigned every **Wednesday**.
+- Assigned every **Monday**.
 - Due **Thursday evening**.
-- Each student submits their own solution.
+- Each student must submit individually; I will grade these individually
+- Anything you do not finish in class Wednesday you must complete on your own by the deadline.
 - I will check (possibly a subset of the) problems to ensure understanding and correctness.
 - These will measure correctness of design and structure, as much as correctness of implementation.
 
 ### 2. **Problem Set Group Reflections**
 
-- Submitted alongside problem sets.
+- Submitted immediately after problem sets.
 - Please see the [reflection page]({{ site.baseurl }}/reflection/) for more details.
 
 ### 3. **Quizzes**
@@ -79,23 +81,29 @@ A great regular way to reach out for help is via our [office hours]({{ site.base
 - Daily (or weekly, TBD) at the start of the class.
 - Duration: 10 minutes.
 - Paper and pencil quizzes. Be prepared and bring a pencil.
+- These can be code or content questions
+- Grades will be assigned as "Got it", "Mostly got it", "Substandard", "Missing/Absent"
 - Content based on recently assigned reading material and/or videos.
 - Cannot be made-up or retaken
-- I will drop the lowest 5
+- I will drop your lowest five grades
 
 ### 4. **Large Software Project**
 
 - Textbook-based projects based upon the game developed in "Animated Problem Solving"
-- Pair programming encouraged
+- Pair programming assignments (pairs chosen by me)
 - Different extensions assigned to different groups.
-- Oral examination at some point(s) in the semester
+- Grade assigned to the pair.
+- Oral examination at some point(s) in the semester (see below)
+- Generally ~two weeks to complete these assignments
+- Each student in the pair must submit; I will randomly choose *one* of you to grade.
+- If you decide you cannot work together on this assignment, you must let me know.
 
 #### Oral Assessments
 
 At some points in the semester, after one of these large software
 projects is due, you, as an individual, may be (randomly or not)
 selected to come to give an oral code walk of your submission. You
-will schedule a time to meet mee at my office within 48 hours to
+will schedule a time to meet me, at my office within 72 hours to
 present and explain your submission. You will be responsible for all
 the software that your group submitted in that assignment, including
 any starter code. You will need to explain how it works and why it was
@@ -103,23 +111,38 @@ designed that way. If you are so requested, this will account for 20%
 of your grade on the project. If you are working in a group, this will
 account for 20% of your group's grade on the project.
 
-## Problem Set Group
+### Due Dates and times
 
-Working with other developers is an important skill. No modern
-software is developed alone, without interface with the broader
-community. You will work in groups, selected by me, of no more than
-four to complete these problem answer sets.
+Assignments are due at 10:00pm on the date listed. No excuses or
+exceptions. You are welcome to submit as many times as you wish; I
+will grade your latest assignment before the deadline. I may add a
+small, randomly-varying amount of time to account for network latency;
+consider this your lenience. Anything that is submitted after that
+time will not be accepted. Your submissions must be through the
+approved submission system; submissions by other means (slipped under
+my door, etc.) will not be accepted. Please submit frequently, so that
+you do not miss the chance to turn in anything at all.
 
-### Homework Quizzes
+### Problem Set Groupmates / Large Project partner
 
-Throughout the course of the semester you will have some more sizable
-homework assignments. I expect you to work in a pair, and I will
-assign credit to the pair. I will assign a grade to the pair, based
-upon your code and an oral examination at my office.
+You will receive an email from me with your problem set groupmates
+before the beginning of the week. Sit in the viscinity of those group
+members before class on Wednesdays, so that you can quickly begin to
+work together after a quiz or discussion.
 
-You will generally have two weeks to complete these assignments.
+You will receive an email from me with your pair-partner for those
+large software projects. These will not be the same. Please reach out
+to that person, and contact them to begin work as soon as possible. If
+you do not get a response from them within 24 hours, let me know.
 
-### Tutoring Attendance/Practice Problems
+If you are having a problem with a problem set groupmate or a large
+project partner, please first have that uncomfortable discussion with
+them, in person if you can or by other means if you must. If you do
+not see immediate improvement, contact me. EXCEPTION: If at any point
+or time you feel uncomfortable or unsafe around a classmate or
+groupmate. 
+
+### Tutoring attendance/Practice problems
 
 I have asked our tutors to ensure that you attend tutoring at least
 once per week.
@@ -129,16 +152,15 @@ will ask to see your progress on these, and give you credit for
 partly/mostly attempting them.
 - I may ask you to go by and demonstrate your knowledge and
 understanding of some concept.
-- Otherwise demonstrate your progress on a current or upcoming assigment or ask for help and clarification.
-
+- Otherwise demonstrate your progress on a current or upcoming
+  assignment or ask for help and clarification.
 
 ## Class Participation
 
 Attendance is mandatory, but not sufficient. I will ask that you stay
-on topic and pay attention during lectures. If I or my TAs see that
-you are drifting, we will ask you to close your phone or laptop, and
-take paper notes.
-
+on topic and pay attention during lectures. If I or my learning
+assistants see that you are drifting, we will ask you to close your
+phone or laptop, and take paper notes.
 
 ## Course Evaluation
 
@@ -186,6 +208,26 @@ when applicable).
 When in doubt, ask your instructor. Violations of academic integrity
 will lead to a score of zero on the offending assignment and likely an
 immediately failing grade for the course.
+
+### ChatGPT, Copilot, and GAI tools
+
+This being new, I felt compelled to add a subsection. ChatGPT and
+other code generation tools utilize advanced machine learning models
+to assist users in generating code, answering queries, and providing
+solutions to various problems. I will have exercises where we practice
+using them in class.
+
+These tools can be beneficial for understanding and learning, it's
+crucial to use them responsibly. My problems are small because you are
+learning, Tools like ChatGPT can provide quick answers, but do not
+scale equally well to professional software developer sized problems.
+Your submissions should be your original work. If I can tell that you
+used ChatGPT or similar tools to assist in your assignments---by
+inspection, or from my interactions with you---that is the same as any
+other cheating.
+
+If you want to use these tools to help you learn, do so on problems
+that are significantly different enough from those I assign to you.
 
 ## DSS
 

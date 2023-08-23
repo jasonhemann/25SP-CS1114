@@ -16,11 +16,9 @@ sidebar:
 
 ## Lecture
 
-
  | Lecture | Instructor | Dates | Time        | Location |
  |---------|------------|-------|-------------|----------|
- | 1114-AB | Jason      | M, W  | 08:00-09:15 | SC 109   |
-
+ | 1114-AA | Jason      | M, W  | 08:00-09:15 | SC 109   |
  
 
 
