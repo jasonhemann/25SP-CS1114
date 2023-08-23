@@ -64,7 +64,8 @@ A great regular way to reach out for help is via our [office hours]({{ site.base
 
 ### 1. **Problem Sets**
 
-- Assigned every **Monday**.
+- Expect (at least) weekly problem sets.
+- These will generally be assigned every **Monday**.
 - Due **Thursday evening**.
 - Each student must submit individually; I will grade these individually
 - Anything you do not finish in class Wednesday you must complete on your own by the deadline.
@@ -80,6 +81,7 @@ A great regular way to reach out for help is via our [office hours]({{ site.base
 
 - Daily (or weekly, TBD) at the start of the class.
 - Duration: 10 minutes.
+- Take-home quizzes are possible if we do not have enough time; these will be due in 48 hours.
 - Paper and pencil quizzes. Be prepared and bring a pencil.
 - These can be code or content questions
 - Grades will be assigned as "Got it", "Mostly got it", "Substandard", "Missing/Absent"
