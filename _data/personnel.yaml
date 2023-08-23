@@ -1,0 +1,16 @@
+# Personnel Information
+#
+# This is a commented out example
+# Please fill yours in
+#
+# - name: Alyssa P. Hacker
+#   role: Teaching Assistant
+#   email: hackerap@shu.edu
+#   office: McQuaid Hall Room 102
+#   office_hours: Wednesdays 1-3pm
+
+- name:
+  role:
+  email:
+  office_hours:
+  office_hours_location:

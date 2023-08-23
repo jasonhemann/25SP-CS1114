@@ -112,7 +112,8 @@ author:
   location         : "South Orange, NJ"
   twitter          : "jhemann"
   emailaddr        : "hemannja@shu.edu"
-  email            : "mailto:hemannja@shu.edu"
+  office_hours_location: McQuaid 210
+  office_hours     : TBD
   bitbucket        : "jhemann-shu"
   github           : "jasonhemann"
   links:
