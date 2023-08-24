@@ -1,0 +1,60 @@
+semester_start: 2023-08-28T00:00:00-04:00
+weeks:
+  - week_offset: 0
+    homework:
+      - title: "Setup Environment"
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: "Course Introduction"
+        pre_readings:
+          - title: "Syllabus Overview"
+            link: "/docs/syllabus.pdf"
+        videos:
+          - title: "Introduction Video"
+            link: "https://youtu.be/example"
+        extra_resources:
+          - title: "FAQ"
+            link: "/faq"
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: "Course Introduction"
+        pre_readings:
+          - title: "Chapter 1: Foundations"
+            link: "/docs/chapter1.pdf"
+          - title: "Introduction to XYZ"
+            link: "/docs/intro_xyz.pdf"
+        videos:
+          - title: "Foundation Concepts"
+            link: "https://youtu.be/example2"
+        extra_resources:
+          - title: "XYZ Cheat Sheet"
+            link: "/resources/xyz_cheatsheet.pdf"
+  - week_offset: 1
+    homework:
+      - title: "Setup Environment"
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: "Course Introduction"
+        pre_readings:
+          - title: "Chapter 2: Advanced Topics"
+            link: "/docs/chapter2.pdf"
+        videos:
+          - title: "Advanced Tutorial"
+            link: "https://youtu.be/example3"
+        extra_resources:
+          - title: "XYZ Advanced Guide"
+            link: "/resources/xyz_advanced_guide.pdf"
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: "Course Introduction"
+        pre_readings: []
+        videos:
+          - title: "Lab Tutorial"
+            link: "https://youtu.be/example4"
+        extra_resources:
+          - title: "Lab Resources"
+            link: "/resources/lab_resources.zip"
