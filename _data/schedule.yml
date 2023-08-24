@@ -58,3 +58,409 @@ weeks:
         extra_resources:
           - title: "Lab Resources"
             link: "/resources/lab_resources.zip"
+  - week_offset: 2
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 3
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 4
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 5
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 6
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 7
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 8
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 9
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 10
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 11
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 12
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 13
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 14
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 15
+    homework:
+      - title: ""
+        out: 2023-08-28
+    sessions:
+      - day_offset: 0  # Monday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day_offset: 2  # Wednesday
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
