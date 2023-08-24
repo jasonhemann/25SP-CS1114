@@ -6,15 +6,31 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
-        title: "Title"
+        title: "Basic Calculations with Dr Racket"
         topics:
           - desc: "Course Introduction"
         pre_readings:
-          - title: "Syllabus Overview"
-            link: "/docs/syllabus.pdf"
+          - title: "Course Syllabus"
+            link: "../syllabus/"
+          - title: "Chapter 1, APS"
+            link: "javascript:void(0);"
         videos:
-          - title: "Introduction Video"
-            link: "https://youtu.be/example"
+          - title: "Download and install Dr Racket"
+            link: "https://www.youtube.com/watch?v=krC8ORbgTPQ"
+          - title: "Chaining operations"
+            link: "https://www.youtube.com/watch?v=FzLaEbvMiB8"
+          - title: "The interactions window"
+            link: "https://www.youtube.com/watch?v=tMkdcTDZ47E"
+          - title: "Comments"
+            link: "https://www.youtube.com/watch?v=E_epAELC8QM"
+          - title: "Stepping"
+            link: "https://www.youtube.com/watch?v=PCxZ7w-4EIs"
+          - title: "Calculating with images"
+            link: "https://www.youtube.com/watch?v=6wauy712RA4"
+          - title: "Making images"
+            link: "https://www.youtube.com/watch?v=1JCFxGUM8Sg"
+          - title: "Stepping Images"
+            link: "https://www.youtube.com/watch?v=3rm-izPDpgw"
         extra_resources:
           - title: "FAQ"
             link: "/faq"
@@ -106,8 +122,8 @@ weeks:
           - title: ""
             link: ""
         videos:
-          - title: ""
-            link: ""
+          - title: "The origin of parentheses"
+            link: "https://www.youtube.com/watch?v=SqJjI8D97U0"
         extra_resources:
           - title: ""
             link: ""
