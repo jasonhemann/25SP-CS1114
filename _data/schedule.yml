@@ -6,6 +6,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: "Course Introduction"
         pre_readings:
@@ -18,6 +19,7 @@ weeks:
           - title: "FAQ"
             link: "/faq"
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: "Course Introduction"
         pre_readings:
@@ -37,6 +39,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: "Course Introduction"
         pre_readings:
@@ -49,6 +52,7 @@ weeks:
           - title: "XYZ Advanced Guide"
             link: "/resources/xyz_advanced_guide.pdf"
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: "Course Introduction"
         pre_readings: []
@@ -64,6 +68,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -76,6 +81,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -93,6 +99,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -105,6 +112,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -122,6 +130,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -134,6 +143,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -151,6 +161,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -163,6 +174,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -180,6 +192,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -192,6 +205,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -209,6 +223,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -221,6 +236,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -238,6 +254,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -250,6 +267,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -267,6 +285,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -279,6 +298,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -296,6 +316,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -308,6 +329,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -325,6 +347,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -337,6 +360,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -354,6 +378,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -366,6 +391,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -383,6 +409,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -395,6 +422,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -412,6 +440,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -424,6 +453,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -441,6 +471,7 @@ weeks:
         out: 2023-08-28
     sessions:
       - day_offset: 0  # Monday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
@@ -453,6 +484,7 @@ weeks:
           - title: ""
             link: ""
       - day_offset: 2  # Wednesday
+        title: "Title"
         topics:
           - desc: ""
         pre_readings:
