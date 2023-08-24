@@ -183,6 +183,18 @@ assessment.
 We will use a variety of tools and platforms to facilitate teaching
 and learning over the semester. Please see the [technology page]({{ site.baseurl }}/tech/) for more details.
 
+### Code safety, security, and backup
+
+You are responsible for the safely and securely storing your data. It
+is considered a best practice to keep your files under version
+control, using a tool such as git via
+[github.com](https://github.com). As a burgeoning computer programmer,
+you should create an account. In addition, you have the ability to
+backup entire directories, automatically, through Microsoft OneDrive.
+You should set the directory where you save your programs to
+automatically back up. Lost data due to hardware errors will not be an
+accepted excuse.
+
 ## Academic Integrity
 
 Misrepresentation of someone else's work as one's own is a grave

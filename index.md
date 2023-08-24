@@ -1,8 +1,6 @@
 ---
 title: Welcome
-layout: single #home
-author_profile: true
-social: true
+layout: single
 sidebar:
   title: "Site Map"
   nav: sidebar-site-map
@@ -19,7 +17,3 @@ sidebar:
  | Lecture | Instructor | Dates | Time        | Location |
  |---------|------------|-------|-------------|----------|
  | 1114-AA | Jason      | M, W  | 08:00-09:15 | SC 109   |
- 
-
-
-
