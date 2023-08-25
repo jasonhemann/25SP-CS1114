@@ -2,24 +2,37 @@ semester_start: 2023-08-28T00:00:00-04:00
 weeks:
   - week_offset: 0
     homework:
-      - title: "Setup Environment"
+      - title: "Basic Environment Setup"
         out: 2023-08-28
+      - title: "Basic Calculate-a-thon"
+        out: 2023-08-28
+      - title: "Preface Rocket Ship"
+        out: Thursday
     sessions:
       - day_offset: 0  # Monday
         title: "Basic Calculations with Dr Racket"
         topics:
           - desc: "Course Introduction"
+          - desc: "Questions"
+          - desc: "Basic moving about"
+          - desc: "Parentheses"
+          - desc: "Language documentation and help"
+          - desc: "Interactions & definitions windows"
+          - desc: "Images as values"
+          - desc: "Definitions"
         pre_readings:
           - title: "Course Syllabus"
             link: "../syllabus/"
-          - title: "Chapter 1, APS"
-            link: "javascript:void(0);"
+          - title: "Chs 1 & 2, Animated Problem Solving"
+            link: ""
         videos:
           - title: "Download and install Dr Racket"
             link: "https://www.youtube.com/watch?v=krC8ORbgTPQ"
+          - title: "Dr Racket as a Calculator"
+            link: "https://www.youtube.com/watch?v=XOpDHlZH6aQ"
           - title: "Chaining operations"
             link: "https://www.youtube.com/watch?v=FzLaEbvMiB8"
-          - title: "The interactions window"
+          - title: "The definitions window"
             link: "https://www.youtube.com/watch?v=tMkdcTDZ47E"
           - title: "Comments"
             link: "https://www.youtube.com/watch?v=E_epAELC8QM"
@@ -27,57 +40,75 @@ weeks:
             link: "https://www.youtube.com/watch?v=PCxZ7w-4EIs"
           - title: "Calculating with images"
             link: "https://www.youtube.com/watch?v=6wauy712RA4"
+        extra_resources: []
+      - day_offset: 2  # Wednesday
+        title: "Flipped Session 1"
+        pre_readings:
+          - title: "Prologue, How to Design Programs"
+            link: "https://htdp.org/2023-3-6/Book/part_prologue.html"
+        videos:
           - title: "Making images"
             link: "https://www.youtube.com/watch?v=1JCFxGUM8Sg"
           - title: "Stepping Images"
             link: "https://www.youtube.com/watch?v=3rm-izPDpgw"
-        extra_resources:
-          - title: "FAQ"
-            link: "/faq"
-      - day_offset: 2  # Wednesday
-        title: "Title"
-        topics:
-          - desc: "Course Introduction"
-        pre_readings:
-          - title: "Chapter 1: Foundations"
-            link: "/docs/chapter1.pdf"
-          - title: "Introduction to XYZ"
-            link: "/docs/intro_xyz.pdf"
-        videos:
-          - title: "Foundation Concepts"
-            link: "https://youtu.be/example2"
-        extra_resources:
-          - title: "XYZ Cheat Sheet"
-            link: "/resources/xyz_cheatsheet.pdf"
+          - title: "Defining constants"
+            link: "https://www.youtube.com/watch?v=2JKjncNCaAo"
+          - title: "Changing a definition"
+            link: "https://www.youtube.com/watch?v=Gk3IEMBagLs"
+          - title: "Stepping with constants"
+            link: "https://www.youtube.com/watch?v=NkQeBz1DSxI"
   - week_offset: 1
     homework:
-      - title: "Setup Environment"
-        out: 2023-08-28
+      - title: "First Functions"
+        out: Wednesday
     sessions:
       - day_offset: 0  # Monday
-        title: "Title"
-        topics:
-          - desc: "Course Introduction"
-        pre_readings:
-          - title: "Chapter 2: Advanced Topics"
-            link: "/docs/chapter2.pdf"
-        videos:
-          - title: "Advanced Tutorial"
-            link: "https://youtu.be/example3"
-        extra_resources:
-          - title: "XYZ Advanced Guide"
-            link: "/resources/xyz_advanced_guide.pdf"
-      - day_offset: 2  # Wednesday
-        title: "Title"
-        topics:
-          - desc: "Course Introduction"
+        title: "Labor Day - Class is Cancelled"
+        topics: []
         pre_readings: []
+        videos: []
+        extra_resources: []
+      - day_offset: 2  # Wednesday
+        title: "Definitions, Functions & Design"
+        topics:
+          - desc: "Functions"
+          - desc: "Table method"
+          - desc: "Animation"
+        pre_readings:
+          - title: "Ch 2 How to Design Programs"
+            link: "https://htdp.org/2023-3-6/Book/part_one.html#%28part._ch~3afuncs-progs%29"
+          - title: "Ch 3 How to Design Programs"
+            link: "https://htdp.org/2023-3-6/Book/part_one.html#%28part._ch~3ahtdp%29"
         videos:
-          - title: "Lab Tutorial"
-            link: "https://youtu.be/example4"
+          - title: "Defining functions"
+            link: "https://www.youtube.com/watch?v=0CRZLXHqS18"
+          - title: "Defining multi-argument functions"
+            link: "https://www.youtube.com/watch?v=aLcCjx6HzT4"
+          - title: "Animation"
+            link: "https://www.youtube.com/watch?v=KsTgSleucpc"
+          - title: "Stepping functions"
+            link: "https://www.youtube.com/watch?v=bCWJ-zj0Ni8"
+          - title: "Parentheses and editing"
+            link: "https://www.youtube.com/watch?v=SqJjI8D97U0"
+          - title: "Designing a 1-argument function"
+            link: "https://www.youtube.com/watch?v=smpKKKUyWR0"
+          - title: "Design Recipe Tips"
+            link: "https://www.youtube.com/watch?v=0ZXhFbn-ZH4"
+          - title: "Designing a 2-argument function"
+            link: "https://www.youtube.com/watch?v=17Y65vTYFbk"
+          - title: "Data definition aliases"
+            link: "https://www.youtube.com/watch?v=gQw8Jk26lYU"
+          - title: "Designing an animation"
+            link: "https://www.youtube.com/watch?v=utu22d_7Nic"
+          - title: "The table method"
+            link: "https://www.youtube.com/watch?v=Dd01tDzPPls"
+          - title: "Table method with 2 inputs"
+            link: "https://www.youtube.com/watch?v=ZEfMCxf6bGA"
         extra_resources:
-          - title: "Lab Resources"
-            link: "/resources/lab_resources.zip"
+          - title: "BSL Table Design"
+            link: "http://cedar.sice.indiana.edu:35888/Beginning-Student-Tables/"
+          - title: "Porpoise"
+            link: "javascript:void(0);"
   - week_offset: 2
     homework:
       - title: ""
