@@ -27,7 +27,7 @@ classes: wide
       <li><strong>Topics:</strong>
         <ul>
           {% for topic in session.topics %}
-		  - {{ topic.desc }}
+		  <li> {{ topic.desc }} </li>
 		  {% endfor %}
 		</ul>
       </li>
