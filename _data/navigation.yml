@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "Instructor"
-    url: /office-hours/
+    url: /instructor/
   - title: "Schedule"
     url: /schedule/
 
 # sidebar links
 sidebar-site-map:
   - title: "Instructor"
-    url: /office-hours/
+    url: /instructor/
   - title: "Schedule"
     url: /schedule/
   - title: "People"
