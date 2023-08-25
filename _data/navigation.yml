@@ -1,21 +1,13 @@
 # main links
 main:
-  - title: "Homework"
-    url: /hw/
-  - title: "Lectures"
-    url: /lec/
-  - title: "Office Hours"
+  - title: "Instructor"
     url: /office-hours/
   - title: "Schedule"
     url: /schedule/
 
 # sidebar links
 sidebar-site-map:
-  - title: "Homework"
-    url: /hw/
-  - title: "Lectures"
-    url: /lec/
-  - title: "Office Hours"
+  - title: "Instructor"
     url: /office-hours/
   - title: "Schedule"
     url: /schedule/
@@ -25,8 +17,6 @@ sidebar-site-map:
     url: /syllabus/
   - title: "Tech"
     url: /tech/
-  - title: "FAQ"
-    url: /FAQ/
   - title: "Enrichment"
     url: /enrichment/
   - title: "How's My Driving?"
