@@ -25,12 +25,12 @@ collaboration, and individual accountability.
 5. Develop familiarity with modern computer technology.
 6. Reinforce basic mathematics and logic skills
 
-## Coursework expectations / Flipped Class
+## Coursework expectations 
 
-This semester I will "flip" half the classes. That is to say, you will
-spend 1/2 of your in-class time working together in groups on problem
-sets. Lecture once a week will *not* entirely prepare you for your
-assignments. You *must* read assigned textbook material, and you
+This semester I will "flip" some portion of the classes. That is to
+say, you will spend some of your in-class time working together in
+groups on problem sets. Lectures will *not* entirely prepare you for
+your assignments. You *must* read assigned textbook material, and you
 *must* watch assigned videos in order to stay abreast with the class.
 
 ## General Class Schedule
@@ -64,11 +64,11 @@ A great regular way to reach out for help is via our [office hours]({{ site.base
 
 ### 1. **Problem Sets**
 
-- Expect (at least) weekly problem sets.
+- Expect (roughly) weekly problem sets.
 - These will generally be assigned every **Monday**.
 - Due **Thursday evening**.
-- Each student must submit individually; I will grade these individually
-- Anything you do not finish in class Wednesday you must complete on your own by the deadline.
+- I will assign you to start working together on these in groups when will have time to start in class
+- Either way each student must submit individually; I will grade these individually
 - I will check (possibly a subset of the) problems to ensure understanding and correctness.
 - These will measure correctness of design and structure, as much as correctness of implementation.
 
@@ -88,6 +88,8 @@ A great regular way to reach out for help is via our [office hours]({{ site.base
 - Content based on recently assigned reading material and/or videos.
 - Cannot be made-up or retaken
 - I will drop your lowest five grades
+- I may add other quizzes over the reading/videos to do asynchronously as you watch/read
+- These latter will be submitted via gradescope, but will also count as quizzes
 
 ### 4. **Large Software Project**
 
@@ -125,20 +127,15 @@ approved submission system; submissions by other means (slipped under
 my door, etc.) will not be accepted. Please submit frequently, so that
 you do not miss the chance to turn in anything at all.
 
-### Problem Set Groupmates / Large Project partner
-
-You will receive an email from me with your problem set groupmates
-before the beginning of the week. Sit in the viscinity of those group
-members before class on Wednesdays, so that you can quickly begin to
-work together after a quiz or discussion.
+### Large Project partner, pair programming
 
 You will receive an email from me with your pair-partner for those
 large software projects. These will not be the same. Please reach out
 to that person, and contact them to begin work as soon as possible. If
 you do not get a response from them within 24 hours, let me know.
 
-If you are having a problem with a problem set groupmate or a large
-project partner, please first have that uncomfortable discussion with
+If you are having a problem with a pair programming partner for the large
+software projects, please first have that uncomfortable discussion with
 them, in person if you can or by other means if you must. If you do
 not see immediate improvement, contact me. EXCEPTION: If at any point
 or time you feel uncomfortable or unsafe around a classmate or
