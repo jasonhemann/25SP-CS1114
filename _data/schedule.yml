@@ -15,15 +15,14 @@ weeks:
           - desc: "Course Introduction"
           - desc: "Questions"
           - desc: "Basic moving about"
+          - desc: "Basic data types"
           - desc: "Parentheses"
           - desc: "Language documentation and help"
           - desc: "Interactions & definitions windows"
-          - desc: "Images as values"
-          - desc: "Definitions"
         pre_readings:
           - title: "Course Syllabus"
             link: "../syllabus/"
-          - title: "Chs 1 & 2, Animated Problem Solving"
+          - title: "Ch 1, Animated Problem Solving"
             link: ""
         videos:
           - title: "Download and install Dr Racket"
@@ -42,8 +41,14 @@ weeks:
             link: "https://www.youtube.com/watch?v=6wauy712RA4"
         extra_resources: []
       - day_offset: 2  # Wednesday
-        title: "Flipped Session 1"
+        title: "Manipulating Images"
+        topics:
+          - desc: "Images as values"
+          - desc: "Definitions"
+          - desc: "Designing functions"
         pre_readings:
+          - title: "Ch 2, Animated Problem Solving"
+            link: ""
           - title: "Prologue, How to Design Programs"
             link: "https://htdp.org/2023-3-6/Book/part_prologue.html"
         videos:
@@ -57,6 +62,14 @@ weeks:
             link: "https://www.youtube.com/watch?v=Gk3IEMBagLs"
           - title: "Stepping with constants"
             link: "https://www.youtube.com/watch?v=NkQeBz1DSxI"
+          - title: "Defining functions"
+            link: "https://www.youtube.com/watch?v=0CRZLXHqS18"
+          - title: "Defining multi-argument functions"
+            link: "https://www.youtube.com/watch?v=aLcCjx6HzT4"
+          - title: "Animation"
+            link: "https://www.youtube.com/watch?v=KsTgSleucpc"
+          - title: "Stepping functions"
+            link: "https://www.youtube.com/watch?v=bCWJ-zj0Ni8"
   - week_offset: 1
     homework:
       - title: "First Functions"
@@ -69,7 +82,7 @@ weeks:
         videos: []
         extra_resources: []
       - day_offset: 2  # Wednesday
-        title: "Definitions, Functions & Design"
+        title: "Functions & Design"
         topics:
           - desc: "Functions"
           - desc: "Table method"
@@ -80,14 +93,6 @@ weeks:
           - title: "Ch 3 How to Design Programs"
             link: "https://htdp.org/2023-3-6/Book/part_one.html#%28part._ch~3ahtdp%29"
         videos:
-          - title: "Defining functions"
-            link: "https://www.youtube.com/watch?v=0CRZLXHqS18"
-          - title: "Defining multi-argument functions"
-            link: "https://www.youtube.com/watch?v=aLcCjx6HzT4"
-          - title: "Animation"
-            link: "https://www.youtube.com/watch?v=KsTgSleucpc"
-          - title: "Stepping functions"
-            link: "https://www.youtube.com/watch?v=bCWJ-zj0Ni8"
           - title: "Parentheses and editing"
             link: "https://www.youtube.com/watch?v=SqJjI8D97U0"
           - title: "Designing a 1-argument function"
