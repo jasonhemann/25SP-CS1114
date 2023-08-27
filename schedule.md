@@ -33,9 +33,16 @@ classes: wide
       </li>
       <li><strong>Preparation:</strong>
         <ul>
-          {% for reading in session.pre_readings %}
-          <li>📖 <a href="{{ reading.link }}">{{ reading.title }}</a></li>
-          {% endfor %}
+		  {% for reading in session.pre_readings %}
+			<li>
+			  📖 
+			  {% if reading.link %}
+				<a href="{{ reading.link }}">{{ reading.title }}</a>
+			  {% else %}
+				{{ reading.title }}
+			  {% endif %}
+			</li>
+		  {% endfor %}
           {% for video in session.videos %}
           <li>🎥 <a href="{{ video.link }}">{{ video.title }}</a></li>
           {% endfor %}
@@ -43,9 +50,15 @@ classes: wide
       </li>
       <li><strong>Extra Resources:</strong>
         <ul>
-          {% for resource in session.extra_resources %}
-          <li><a href="{{ resource.link }}">{{ resource.title }}</a></li>
-          {% endfor %}
+		  {% for resource in session.extra_resources %}
+			<li>
+			  {% if resource.link %}
+				<a href="{{ resource.link }}">{{ resource.title }}</a>
+			  {% else %}
+				{{ resource.title }}
+			  {% endif %}
+			</li>
+		  {% endfor %}
         </ul>
       </li>
     </ul>

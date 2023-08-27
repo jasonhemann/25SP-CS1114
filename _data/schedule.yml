@@ -2,6 +2,8 @@ semester_start: 2023-08-28T00:00:00-04:00
 weeks:
   - week_offset: 0
     homework:
+      - title: "Syllabus Quiz"
+        out: 2023-08-28
       - title: "Basic Environment Setup"
         out: 2023-08-28
       - title: "Basic Calculate-a-thon"
@@ -23,7 +25,6 @@ weeks:
           - title: "Course Syllabus"
             link: "../syllabus/"
           - title: "Ch 1, Animated Problem Solving"
-            link: ""
         videos:
           - title: "Download and install Dr Racket"
             link: "https://youtu.be/hkYfT6uhwJo"
