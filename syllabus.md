@@ -35,12 +35,15 @@ your assignments. You *must* read assigned textbook material, and you
 
 ## General Class Schedule
 
-- **Mondays**: Instructional sessions and Q&A.
-- **Wednesdays**: Group problem-solving "open group work" sessions.
+EDIT 2023-08-27
+
+Lecture periods will generally be instructional sessions and student
+Q&A. We will sometimes use class periods for group problem-solving
+"open group work" sessions. 
 
 ## Contact
 
-- Personal, private (FERPA, etc) messages: [{{ site.author.emailaddr }}]({{ site.author.email }}). You should expect a response within 48 hours.
+- Personal, private (FERPA, etc) messages: [{{ site.author.emailaddr }}]({{ site.author.email }}). You should expect a response within 48 hours. More details about communicating with the instructor [here]({{ site.baseurl }}/instructor/).
 
 A great regular way to reach out for help is via our [office hours]({{ site.baseurl }}/office-hours/).
 
@@ -66,7 +69,7 @@ A great regular way to reach out for help is via our [office hours]({{ site.base
 
 - Expect (roughly) weekly problem sets.
 - These will generally be assigned every **Monday**.
-- Due **Thursday evening**.
+- Generally due **Thursday evening**, unless otherwise noted.
 - I will assign you to start working together on these in groups when will have time to start in class
 - Either way each student must submit individually; I will grade these individually
 - I will check (possibly a subset of the) problems to ensure understanding and correctness.
@@ -95,7 +98,7 @@ A great regular way to reach out for help is via our [office hours]({{ site.base
 
 - Textbook-based projects based upon the game developed in "Animated Problem Solving"
 - Pair programming assignments (pairs chosen by me)
-- Different extensions assigned to different groups.
+- Different extensions may be assigned to different groups.
 - Grade assigned to the pair.
 - Oral examination at some point(s) in the semester (see below)
 - Generally ~two weeks to complete these assignments
