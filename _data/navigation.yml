@@ -13,6 +13,8 @@ sidebar-site-map:
     url: /schedule/
   - title: "People"
     url: /people/
+  - title: "Gradescope"
+    url: "http://www.gradescope.com"
   - title: "Syllabus"
     url: /syllabus/
   - title: "Tech"
