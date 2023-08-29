@@ -261,7 +261,7 @@ their [webpage](https://www.shu.edu/disability-support-services/index.cfm).
 ## Acknowledgments
 
 Thanks over the years for inspiration and content from at least the
-following: Dan Friedman, Shriram Krishnamurthi, Lindsey Kuper, and
-Marco Morazán.
+following: Dan Friedman, Shriram Krishnamurthi, Lindsey Kuper,
+Marco Morazán, and Kris Micinski.
 
 ![In the syllabus]({{ site.baseurl }}/assets/images/syllabus.gif "Might just be worth checking.")
