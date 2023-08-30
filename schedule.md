@@ -24,7 +24,7 @@ classes: wide
 	  {% endfor %}
 	  {% assign out_day_offset_seconds = out_day_offset | times: 86400 %}
 	  {% assign out_day_seconds = start_unix | plus: out_day_offset_seconds %}
-	  <li><strong>{{ hw.title }}:</strong> Assigned on {{ out_day_seconds | date: '%a, %b %d' }}{% if hw.starter_code %} | <a href="{{ site.url }}{{ site.baseurl }}/tree/master/_starter_code/{{ hw.starter_code }}">Starter Code</a>{% endif %}</li>
+	  <li><strong>{{ hw.title }}:</strong> Assigned on {{ out_day_seconds | date: '%a, %b %d' }}{% if hw.starter_code %} | <a href="{{ site.sourceurl }}{{ site.baseurl }}/tree/master/_starter_code/{{ hw.starter_code }}">Starter Code</a>{% endif %}</li>
 	  {% endfor %}
 	</ul>
  </li>
