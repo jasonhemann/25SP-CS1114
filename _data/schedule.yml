@@ -84,9 +84,10 @@ weeks:
       - day: W  # Wednesday
         title: "Functions & Design"
         topics:
-          - desc: "Functions"
+          - desc: "Designing Functions"
           - desc: "Table method"
           - desc: "Animation"
+          - desc: "Purpose statements and prompt engineering"
         pre_readings:
           - title: "Ch 2 How to Design Programs"
             link: "https://htdp.org/2023-3-6/Book/part_one.html#%28part._ch~3afuncs-progs%29"
