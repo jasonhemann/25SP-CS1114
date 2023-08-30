@@ -3,15 +3,12 @@ weeks:
   - week_offset: 0
     homework:
       - title: "Syllabus Quiz"
-        out: 2023-08-28
+        out: M
       - title: "Basic Environment Setup"
-        out: 2023-08-28
-      - title: "Basic Calculate-a-thon"
-        out: 2023-08-28
-      - title: "Preface Rocket Ship"
-        out: Thursday
+        out: W
+        starter_code: "quiz2"
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Basic Calculations with Dr Racket"
         topics:
           - desc: "Course Introduction"
@@ -41,7 +38,7 @@ weeks:
           - title: "Calculating with images"
             link: "https://www.youtube.com/watch?v=6wauy712RA4"
         extra_resources: []
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Manipulating Images"
         topics:
           - desc: "Images as values"
@@ -74,15 +71,17 @@ weeks:
   - week_offset: 1
     homework:
       - title: "First Functions"
-        out: Wednesday
+        out: M
+      - title: "Preface Rocket Ship"
+        out: R
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Labor Day - Class is Cancelled"
         topics: []
         pre_readings: []
         videos: []
         extra_resources: []
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Functions & Design"
         topics:
           - desc: "Functions"
@@ -120,7 +119,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -133,7 +132,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -151,7 +150,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -164,7 +163,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -182,7 +181,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -195,7 +194,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -213,7 +212,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -226,7 +225,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -244,7 +243,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -257,7 +256,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -275,7 +274,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -288,7 +287,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -306,7 +305,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -319,7 +318,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -337,7 +336,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -350,7 +349,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -368,7 +367,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -381,7 +380,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -399,7 +398,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -412,7 +411,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -430,7 +429,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -443,7 +442,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -461,7 +460,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -474,7 +473,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -492,7 +491,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -505,7 +504,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""
@@ -523,7 +522,7 @@ weeks:
       - title: ""
         out: 2023-08-28
     sessions:
-      - day_offset: 0  # Monday
+      - day: M  # Monday
         title: "Title"
         topics:
           - desc: ""
@@ -536,7 +535,7 @@ weeks:
         extra_resources:
           - title: ""
             link: ""
-      - day_offset: 2  # Wednesday
+      - day: W  # Wednesday
         title: "Title"
         topics:
           - desc: ""

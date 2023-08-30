@@ -4,6 +4,7 @@ layout: single
 classes: wide
 ---
 {% assign start_date_unix = site.data.schedule.semester_start | date: "%s" %}
+{% assign days = "M,T,W,R,F,Sa,Su" | split: "," %}
 {% for week in site.data.schedule.weeks %}
 <details>
   {% assign week_seconds = week.week_offset | times: 604800 %}
@@ -14,14 +15,24 @@ classes: wide
   <li><strong>Assignments:</strong>
 	<ul>
 	  {% for hw in week.homework %}
-	  <li><strong>{{ hw.title }}:</strong> Assigned on {{ hw.out }}</li>
-	  {% endfor %}
+{% assign out_day_offset = -1 %}
+{% for day in days %}
+  {% if day == hw.out %}
+    {% assign out_day_offset = forloop.index0 %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+      {% assign out_day_offset_seconds = out_day_offset | times: 86400 %}
+      {% assign out_day_seconds = start_unix | plus: out_day_offset_seconds %}
+	  <li><strong>{{ hw.title }}:</strong> Assigned on {{ out_day_seconds | date: '%a, %b %d' }}{% if hw.starter_code %} | <a href="https://github.com/jasonhemann/23FA-CS1114/tree/master/_starter_code/{{ hw.starter_code }}">Starter Code</a>{% endif %}</li>
+      {% endfor %}
 	</ul>
  </li>
   {% for session in week.sessions %}
-  {% assign day_seconds = session.day_offset | times: 86400 %}
+  {% assign day_offset = days | index: session.day %}
+  {% assign day_seconds = session.day | times: 86400 %}
   {% assign session_unix = start_date_unix | plus: week_seconds | plus: day_seconds %}
-  {% assign session_date = session_unix | date: '%m-%d' %}
+  {% assign session_date = session_unix | date: '%a, %b %d' %}
   <li><strong>{{ session_date }} Lecture: {{session.title}} </strong>
     <ul>
       <li><strong>Topics:</strong>
