@@ -29,8 +29,14 @@ classes: wide
 	</ul>
  </li>
   {% for session in week.sessions %}
-  {% assign day_offset = days | index: session.day %}
-  {% assign day_seconds = session.day | times: 86400 %}
+  {% assign out_day_offset = -1 %}
+  {% for day in days %}
+	{% if day == session.day %}
+	  {% assign session_day_offset = forloop.index0 %}
+	  {% break %}
+	{% endif %}
+  {% endfor %}
+  {% assign day_seconds = session_day_offset | times: 86400 %}
   {% assign session_unix = start_date_unix | plus: week_seconds | plus: day_seconds %}
   {% assign session_date = session_unix | date: '%a, %b %d' %}
   <li><strong>{{ session_date }} Lecture: {{session.title}} </strong>
