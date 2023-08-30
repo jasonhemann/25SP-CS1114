@@ -1,5 +1,5 @@
 ---
-title: Schedule 
+title: Schedule
 layout: single
 classes: wide
 ---
@@ -15,17 +15,17 @@ classes: wide
   <li><strong>Assignments:</strong>
 	<ul>
 	  {% for hw in week.homework %}
-{% assign out_day_offset = -1 %}
-{% for day in days %}
-  {% if day == hw.out %}
-    {% assign out_day_offset = forloop.index0 %}
-    {% break %}
-  {% endif %}
-{% endfor %}
-      {% assign out_day_offset_seconds = out_day_offset | times: 86400 %}
-      {% assign out_day_seconds = start_unix | plus: out_day_offset_seconds %}
-	  <li><strong>{{ hw.title }}:</strong> Assigned on {{ out_day_seconds | date: '%a, %b %d' }}{% if hw.starter_code %} | <a href="https://github.com/jasonhemann/23FA-CS1114/tree/master/_starter_code/{{ hw.starter_code }}">Starter Code</a>{% endif %}</li>
-      {% endfor %}
+	  {% assign out_day_offset = -1 %}
+	  {% for day in days %}
+		{% if day == hw.out %}
+		  {% assign out_day_offset = forloop.index0 %}
+		  {% break %}
+		{% endif %}
+	  {% endfor %}
+	  {% assign out_day_offset_seconds = out_day_offset | times: 86400 %}
+	  {% assign out_day_seconds = start_unix | plus: out_day_offset_seconds %}
+	  <li><strong>{{ hw.title }}:</strong> Assigned on {{ out_day_seconds | date: '%a, %b %d' }}{% if hw.starter_code %} | <a href="{{ site.url }}{{ site.baseurl }}/tree/master/_starter_code/{{ hw.starter_code }}">Starter Code</a>{% endif %}</li>
+	  {% endfor %}
 	</ul>
  </li>
   {% for session in week.sessions %}
@@ -40,19 +40,22 @@ classes: wide
   {% assign session_unix = start_date_unix | plus: week_seconds | plus: day_seconds %}
   {% assign session_date = session_unix | date: '%a, %b %d' %}
   <li><strong>{{ session_date }} Lecture: {{session.title}} </strong>
-    <ul>
-      <li><strong>Topics:</strong>
-        <ul>
-          {% for topic in session.topics %}
+	<ul>
+	  {% if session.topics.size > 0 %}
+	  <li><strong>Topics:</strong>
+		<ul>
+		  {% for topic in session.topics %}
 		  <li> {{ topic.desc }} </li>
 		  {% endfor %}
 		</ul>
-      </li>
-      <li><strong>Preparation:</strong>
-        <ul>
+	  </li>
+	  {% endif %}
+	  <li><strong>Preparation:</strong>
+		<ul>
+
 		  {% for reading in session.pre_readings %}
 			<li>
-			  📖 
+			  📖
 			  {% if reading.link %}
 				<a href="{{ reading.link }}">{{ reading.title }}</a>
 			  {% else %}
@@ -60,29 +63,27 @@ classes: wide
 			  {% endif %}
 			</li>
 		  {% endfor %}
-          {% for video in session.videos %}
-          <li>🎥 <a href="{{ video.link }}">{{ video.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-      <li><strong>Extra Resources:</strong>
-        <ul>
-		  {% for resource in session.extra_resources %}
-			<li>
-			  {% if resource.link %}
-				<a href="{{ resource.link }}">{{ resource.title }}</a>
-			  {% else %}
-				{{ resource.title }}
-			  {% endif %}
-			</li>
+		  {% for video in session.videos %}
+		  <li>🎥 <a href="{{ video.link }}">{{ video.title }}</a></li>
 		  {% endfor %}
-        </ul>
-      </li>
-    </ul>
+		</ul>
+	  </li>
+	  {% if session.extra_resources.size > 0 %}
+	  <li><strong>Extra Resources:</strong>
+		{% for resource in session.extra_resources %}
+		  <li>
+			{% if resource.link %}
+			  <a href="{{ resource.link }}">{{ resource.title }}</a>
+			{% else %}
+			  {{ resource.title }}
+			{% endif %}
+		  </li>
+		{% endfor %}
+	  </li>
+	  {% endif %}
+	</ul>
   </li>
   {% endfor %}
   </ul>
 </details>
 {% endfor %}
-
-

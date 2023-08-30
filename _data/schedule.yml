@@ -4,7 +4,7 @@ weeks:
     homework:
       - title: "Syllabus Quiz"
         out: M
-      - title: "Basic Environment Setup"
+      - title: "Basic Environment Setup Quiz"
         out: W
         starter_code: "quiz2"
     sessions:
@@ -70,9 +70,9 @@ weeks:
             link: "https://www.youtube.com/watch?v=bCWJ-zj0Ni8"
   - week_offset: 1
     homework:
-      - title: "First Functions"
+      - title: "Preface Rocket Ship Quiz"
         out: M
-      - title: "Preface Rocket Ship"
+      - title: "First Functions ProblemSet"
         out: R
     sessions:
       - day: M  # Monday
