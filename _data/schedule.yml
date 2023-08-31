@@ -70,17 +70,13 @@ weeks:
             link: "https://www.youtube.com/watch?v=bCWJ-zj0Ni8"
   - week_offset: 1
     homework:
-      - title: "Preface Rocket Ship Quiz"
-        out: M
+      - title: "HtDP Preface Rocket Ship LargeSoftwareProject"
+        out: W
       - title: "First Functions ProblemSet"
-        out: R
+        out: W
     sessions:
       - day: M  # Monday
         title: "Labor Day - Class is Cancelled"
-        topics: []
-        pre_readings: []
-        videos: []
-        extra_resources: []
       - day: W  # Wednesday
         title: "Functions & Design"
         topics:
@@ -93,6 +89,7 @@ weeks:
             link: "https://htdp.org/2023-3-6/Book/part_one.html#%28part._ch~3afuncs-progs%29"
           - title: "Ch 3 How to Design Programs"
             link: "https://htdp.org/2023-3-6/Book/part_one.html#%28part._ch~3ahtdp%29"
+          - title:
         videos:
           - title: "Parentheses and editing"
             link: "https://www.youtube.com/watch?v=SqJjI8D97U0"
@@ -114,56 +111,56 @@ weeks:
           - title: "BSL Table Design"
             link: "http://cedar.sice.indiana.edu:35888/Beginning-Student-Tables/"
           - title: "Porpoise"
-            link: "javascript:void(0);"
   - week_offset: 2
     homework:
-      - title: ""
-        out: 2023-08-28
+      - title: "LargeSoftware: Aliens Attack 1"
+        out: W
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: "Open lab practice session"
         topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
+          - desc: "Practicing designing functions"
+          - desc: "Practicing working in groups"
+          - desc: "Practice with the BSL docs and APIs"
         extra_resources:
-          - title: ""
-            link: ""
+          - title: "Porpoise (URL provided in class)"
       - day: W  # Wednesday
-        title: "Title"
+        title: "Designing Aliens Attack 1:"
         topics:
-          - desc: ""
+          - desc: "The Aliens Attack Project(s)"
+          - desc: "Logical coordinates vs image coordinates"
+          - desc: "Alien Design"
+          - desc: "Using Github, source code version control"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
+          - title: "Ch. 4 \"Animated Problem Solving\""
         extra_resources:
-          - title: ""
+        extra_resources:
+          - title: "Animated Problem Solving Github Repository"
+            link: "https://github.com/morazanm"
+          - title: "Designing games w/racket"
             link: ""
   - week_offset: 3
     homework:
-      - title: ""
-        out: 2023-08-28
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: "Making Decisions"
         topics:
-          - desc: ""
+          - desc: "booleans"
+          - desc: "intervals"
+          - desc: "enumerations"
+          - desc: "designing with conditionals"
         pre_readings:
           - title: ""
             link: ""
-        videos:
-          - title: "The origin of parentheses"
-            link: "https://www.youtube.com/watch?v=SqJjI8D97U0"
-        extra_resources:
-          - title: ""
-            link: ""
+        Videos:
+          - title: "booleans and \"if\" expressions"
+            link: "https://www.youtube.com/watch?v=G8zM3j4mg_Y"
+          - title: "designing using a conditional"
+            link: "https://www.youtube.com/watch?v=uUYO-yMxgfA"
+          - title: "designing with intervals"
+            link: "https://www.youtube.com/watch?v=ImzjomvogvY"
+          - title: "enumerations"
+            link: "https://www.youtube.com/watch?v=ozFrm6urhdE"
       - day: W  # Wednesday
         title: "Title"
         topics:
