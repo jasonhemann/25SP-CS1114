@@ -21,7 +21,7 @@ weeks:
         pre_readings:
           - title: "Course Syllabus"
             link: "../syllabus/"
-          - title: "Ch 1, Animated Problem Solving"
+          - title: "Ch 1, \"Animated Problem Solving\""
         videos:
           - title: "Download and install Dr Racket"
             link: "https://youtu.be/hkYfT6uhwJo"
@@ -45,9 +45,9 @@ weeks:
           - desc: "Definitions"
           - desc: "Designing functions"
         pre_readings:
-          - title: "Ch 2, Animated Problem Solving"
+          - title: "Ch 2, \"Animated Problem Solving\""
             link: ""
-          - title: "Prologue, How to Design Programs"
+          - title: "Prologue, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/part_prologue.html"
         videos:
           - title: "Making images"
@@ -110,10 +110,9 @@ weeks:
         extra_resources:
           - title: "BSL Table Design"
             link: "http://cedar.sice.indiana.edu:35888/Beginning-Student-Tables/"
-          - title: "Porpoise"
   - week_offset: 2
     homework:
-      - title: "LargeSoftware: Aliens Attack 1"
+      - title: "Aliens Attack 0 LargeSoftware"
         out: W
     sessions:
       - day: M  # Monday
@@ -125,7 +124,7 @@ weeks:
         extra_resources:
           - title: "Porpoise (URL provided in class)"
       - day: W  # Wednesday
-        title: "Designing Aliens Attack 1:"
+        title: "Designing Aliens Attack 0"
         topics:
           - desc: "The Aliens Attack Project(s)"
           - desc: "Logical coordinates vs image coordinates"
@@ -141,6 +140,12 @@ weeks:
             link: ""
   - week_offset: 3
     homework:
+      - title: "Designing with Conditionals Quiz"
+        out: M
+      - title: "HtDP Preface Rocket Ship LargeSoftwareProject"
+        out: W
+      - title: "Aliens Attack Version 1 LargeSoftwareProject"
+        out: W
     sessions:
       - day: M  # Monday
         title: "Making Decisions"
@@ -150,8 +155,7 @@ weeks:
           - desc: "enumerations"
           - desc: "designing with conditionals"
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Animated Problem Solving Ch. 5"
         Videos:
           - title: "booleans and \"if\" expressions"
             link: "https://www.youtube.com/watch?v=G8zM3j4mg_Y"
@@ -162,7 +166,7 @@ weeks:
           - title: "enumerations"
             link: "https://www.youtube.com/watch?v=ozFrm6urhdE"
       - day: W  # Wednesday
-        title: "Title"
+        title: "Designing Aliens Attack version 1"
         topics:
           - desc: ""
         pre_readings:
