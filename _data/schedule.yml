@@ -89,7 +89,6 @@ weeks:
             link: "https://htdp.org/2023-3-6/Book/part_one.html#%28part._ch~3afuncs-progs%29"
           - title: "Ch 3 How to Design Programs"
             link: "https://htdp.org/2023-3-6/Book/part_one.html#%28part._ch~3ahtdp%29"
-          - title:
         videos:
           - title: "Parentheses and editing"
             link: "https://www.youtube.com/watch?v=SqJjI8D97U0"
@@ -135,9 +134,7 @@ weeks:
         extra_resources:
         extra_resources:
           - title: "Animated Problem Solving Github Repository"
-            link: "https://github.com/morazanm"
-          - title: "Designing games w/racket"
-            link: ""
+            link: "https://github.com/morazanm/Animating-Programs-Code"
   - week_offset: 3
     homework:
       - title: "Designing with Conditionals Quiz"
