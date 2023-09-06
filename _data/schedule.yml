@@ -70,9 +70,11 @@ weeks:
             link: "https://www.youtube.com/watch?v=bCWJ-zj0Ni8"
   - week_offset: 1
     homework:
-      - title: "HtDP Preface Rocket Ship LargeSoftwareProject"
+      - title: "HtDP Prologue Rocket Ship LargeSoftwareProject"
+        starter_code: "lsp0"
         out: W
       - title: "First Functions ProblemSet"
+        starter_code: "ps0"
         out: W
     sessions:
       - day: M  # Monday
