@@ -111,6 +111,8 @@ weeks:
         extra_resources:
           - title: "BSL Table Design"
             link: "http://cedar.sice.indiana.edu:35888/Beginning-Student-Tables/"
+          - title: "The Design Recipe in short, for data and functions"
+            link: "https://cs.berry.edu/webdocs-common/csc120/docs/recipes/"
   - week_offset: 2
     homework:
       - title: "Aliens Attack 0 LargeSoftware"
