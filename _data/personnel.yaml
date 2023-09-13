@@ -12,7 +12,7 @@
 - name: Oliwia Kempinski
   role: Learning Assistant
   email: oliwia.kempinski@student.shu.edu
-  office_hours: M 6pm-9pm, T 5pm-6:30pm, W 7:30pm-9pm, R 7pm-9pm, F 11am-1pm
+  office_hours: M 6pm-9pm, T 5pm-6:30pm, W 7:30pm-9pm
   office_hours_location: AS 111
 
 - name: Abby Hall
@@ -32,3 +32,4 @@
   email: skye.jorn@student.shu.edu
   office_hours: M, W, R 5:00-7:00PM
   office_hours_location: AS 111
+
