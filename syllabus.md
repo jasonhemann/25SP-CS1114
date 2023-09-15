@@ -146,8 +146,9 @@ groupmate.
 
 ### Tutoring attendance/Practice problems
 
-I have asked our tutors to ensure that you attend tutoring at least
-once per week.
+I have asked our tutors to ensure that you attend tutoring (and that
+your TA marks you down for having sufficiently participated) at least
+once per week. Recitation counts as coming to tutoring. 
 
 - If I assigned practice problems that are not otherwise graded, they
 will ask to see your progress on these, and give you credit for

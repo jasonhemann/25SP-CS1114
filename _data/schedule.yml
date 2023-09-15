@@ -143,8 +143,6 @@ weeks:
     homework:
       - title: "Designing with Conditionals Quiz"
         out: M
-      - title: "HtDP Preface Rocket Ship LargeSoftwareProject"
-        out: W
       - title: "Aliens Attack Version 1 LargeSoftwareProject"
         out: W
     sessions:
@@ -166,16 +164,30 @@ weeks:
             link: "https://www.youtube.com/watch?v=ImzjomvogvY"
           - title: "enumerations"
             link: "https://www.youtube.com/watch?v=ozFrm6urhdE"
+        extra_resources:
+          - title: "templates for enumeration"
+            link: "https://www.youtube.com/watch?v=7uvzuVsNAb0"
       - day: W  # Wednesday
         title: "Designing Aliens Attack version 1"
         topics:
-          - desc: ""
+          - desc: "interactive simulations"
+          - desc: "big-bang library"
+          - desc: "WorldState data definitions"
+          - desc: "on-key"
+          - desc: "on-draw"
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Animated Problem Solving Ch. 6"
+          - title: "Ch. 3 §6, How to Design Programs"
+            link: "https://htdp.org/2019-02-24/part_one.html#%28part._.D.K._sec~3adesign-world%29"
         videos:
-          - title: ""
-            link: ""
+          - title: "big-bang for interactive animations"
+            link: "https://www.youtube.com/watch?v=6h1WW82H9XA"
+          - title: "Animation using big bang"
+            link: "https://www.youtube.com/watch?v=C6j-0KCc61A"
+          - title: "Key events"
+            link: "https://youtu.be/If8-92IbwVo"
+          - title: "Designing a world"
+            link: "https://youtu.be/ELtBCwKGmFY"
         extra_resources:
           - title: ""
             link: ""
