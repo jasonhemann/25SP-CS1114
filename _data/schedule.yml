@@ -189,8 +189,8 @@ weeks:
           - title: "Designing a world"
             link: "https://youtu.be/ELtBCwKGmFY"
         extra_resources:
-          - title: ""
-            link: ""
+          - title: "How to Design Worlds: Imaginative Programming"
+            link: "https://world.cs.brown.edu/"
   - week_offset: 4
     homework:
       - title: ""
