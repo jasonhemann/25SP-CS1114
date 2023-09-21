@@ -144,6 +144,7 @@ weeks:
       - title: "Designing with Conditionals Quiz"
         out: M
       - title: "Aliens Attack Version 1 LargeSoftwareProject"
+        starter_code: "lsp1"
         out: W
     sessions:
       - day: M  # Monday
