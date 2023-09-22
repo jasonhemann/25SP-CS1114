@@ -68,6 +68,9 @@ weeks:
             link: "https://www.youtube.com/watch?v=KsTgSleucpc"
           - title: "Stepping functions"
             link: "https://www.youtube.com/watch?v=bCWJ-zj0Ni8"
+        extra_resources:
+           - title: "How to Design Functions, in slow motion"
+             link: "https://www.youtube.com/watch?v=q6GwIWwKowU"
   - week_offset: 1
     homework:
       - title: "HtDP Prologue Rocket Ship LargeSoftwareProject"
@@ -136,7 +139,6 @@ weeks:
         pre_readings:
           - title: "Ch. 4 \"Animated Problem Solving\""
         extra_resources:
-        extra_resources:
           - title: "Animated Problem Solving Github Repository"
             link: "https://github.com/morazanm/Animating-Programs-Code"
   - week_offset: 3
@@ -194,81 +196,107 @@ weeks:
             link: "https://world.cs.brown.edu/"
   - week_offset: 4
     homework:
-      - title: ""
-        out: 2023-08-28
+      - title: "Structures ProblemSet"
+        out: M
+        starter_code: "ps1"
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: "Structured Data & Defining structs"
         topics:
-          - desc: ""
+          - desc: "2D Posns"
+          - desc: "Compound datatypes"
+          - desc: "Defining structures"
+          - desc: "Functions w/structured data"
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch 5, \"How to Design Programs\""
+            link : "https://htdp.org/2023-8-14/Book/part_one.html#%28part._ch~3astructure%29"
         videos:
-          - title: ""
-            link: ""
+          - title: "Parts of a struct"
+            link: "https://www.youtube.com/watch?v=k-Bvyh65Vy4"
+          - title: "Compound Data definitions"
+            link: "https://www.youtube.com/watch?v=ieSkX9RdobM"
+          - title: "Structure Functions"
+            link: "https://youtu.be/BFa28s9hs5A"
+          - title: "Designing functions w/structured data"
+            link: "https://youtu.be/fEtMEy4-bBE"
         extra_resources:
-          - title: ""
-            link: ""
+          - title: "Ch 7, \"Animated Problem Solving\""
+          - title: "Defining Structures"
+            link: "https://youtu.be/d6YLjN0A6Wg"
+          - title: "How to Code Structs"
+            link: "https://www.youtube.com/watch?v=EZBmgp2QCuA"
+          - title: "Defining Compound Data"
+            link: "https://www.youtube.com/watch?v=weE1xvDQ_tk"
+          - title: "What and how of structures"
+            link: "https://www.youtube.com/watch?v=omCHdFjj8p0"
+          - title: "Design Recipe for Structures"
+            link: "https://www.youtube.com/watch?v=A9gV5eJsh-o"
       - day: W  # Wednesday
-        title: "Title"
-        topics:
-          - desc: ""
+        title: "Open lab practice session"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
+          - title: "Ch 8, \"Animated Problem Solving\""
         extra_resources:
-          - title: ""
-            link: ""
+          - title: "Nested Structure Expressions"
+            link: "https://youtu.be/XsyJ2I0v_Tc"
+          - title: "Designing functions for compound data"
+            link: "https://www.youtube.com/watch?v=LCiGBCk-uzY"
   - week_offset: 5
     homework:
-      - title: ""
-        out: 2023-08-28
+      - title: "Aliens Attack v.2"
+        out: M
+        starter_code: "lsp2"
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: "Aliens Attack v.2"
         topics:
-          - desc: ""
+          - desc: "Refining code"
+          - desc: "Subtyping"
+          - desc: "Errors and error handling"
+          - desc: "format strings"
+          - desc: "stop-when? and ending games"
         pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - title: "Ch 9, \"Animated Problem Solving\""
       - day: W  # Wednesday
-        title: "Title"
+        title: "Structures and Variety"
         topics:
           - desc: ""
+          - desc: ""
+          - desc: ""
+          - desc: ""
+          - desc: ""
+          - desc: ""
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch 6, \"How to Design Programs\""
+            link: "https://htdp.org/2023-8-14/Book/part_one.html#%28part._ch~3amix%29"
+          - title: "Ch 10, \"Animated Problem Solving\""
         videos:
-          - title: ""
-            link: ""
+          - title: "Intro to Unions"
+            link: "https://youtu.be/UBmCs52J0XE"
+          - title: "Designing with Unions"
+            link: "https://youtu.be/cyKIWqi3lFU"
+          - title: "Design w/Unions pt. 2"
+            link: "https://youtu.be/swq4MML4aBE"
         extra_resources:
-          - title: ""
-            link: ""
+          - title: "Nested Structures"
+            link: "https://youtu.be/LDSH00b5PUc"
   - week_offset: 6
     homework:
-      - title: ""
-        out: 2023-08-28
+      - title: "Aliens Attack v.3"
+        out: M
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: "Aliens Attack v.3"
         topics:
           - desc: ""
+          - desc: ""
+          - desc: ""
+          - desc: ""
+          - desc: ""
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch 11, \"Animated Problem Solving\""
         videos:
-          - title: ""
-            link: ""
+          - title: "Big Bang w/Unions"
+            link: "https://youtu.be/3qNxO2useUo"
         extra_resources:
           - title: ""
             link: ""
