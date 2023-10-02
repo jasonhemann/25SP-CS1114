@@ -279,25 +279,24 @@ weeks:
     homework:
       - title: "Aliens Attack v.3"
         out: W
+        starter_code: "lsp3"
     sessions:
       - day: M  # Monday
-        title: "Fall Break"
+        title: "NONE - FALL BREAK"
       - day: W  # Wednesday
         title: "Aliens Attack v.3"
         topics:
-          - desc: ""
-          - desc: ""
-          - desc: ""
-          - desc: ""
-          - desc: ""
+          - desc: "adjusting process-tick"
+          - desc: "move-shot"
+          - desc: "draw-last-world refinement"
         pre_readings:
           - title: "Ch 11, \"Animated Problem Solving\""
         videos:
           - title: "Big Bang w/Unions"
             link: "https://youtu.be/3qNxO2useUo"
         extra_resources:
-          - title: ""
-            link: ""
+          - title: "Design & iterative dev w/a real game"
+            link: "https://www.youtube.com/watch?v=1SlGgCxJa3w"
   - week_offset: 7
     homework:
       - title: ""
