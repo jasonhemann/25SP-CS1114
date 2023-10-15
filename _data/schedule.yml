@@ -277,13 +277,18 @@ weeks:
             link: "https://youtu.be/LDSH00b5PUc"
   - week_offset: 6
     homework:
-      - title: "Aliens Attack v.3"
-        out: W
-        starter_code: "lsp3"
     sessions:
       - day: M  # Monday
         title: "NONE - FALL BREAK"
       - day: W  # Wednesday
+        title: "NONE - CLASS CANCELLED"
+  - week_offset: 7
+    homework:
+      - title: "Aliens Attack v.3"
+        out: M
+        starter_code: "lsp3"
+    sessions:
+      - day: M  # Monday
         title: "Aliens Attack v.3"
         topics:
           - desc: "adjusting process-tick"
@@ -297,31 +302,19 @@ weeks:
         extra_resources:
           - title: "Design & iterative dev w/a real game"
             link: "https://www.youtube.com/watch?v=1SlGgCxJa3w"
-  - week_offset: 7
-    homework:
-      - title: ""
-        out: 2023-08-28
-    sessions:
-      - day: M  # Monday
-        title: "Title"
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
       - day: W  # Wednesday
-        title: "Title"
+        title: "Lists and arbitrarily-sized data"
         topics:
-          - desc: ""
+          - desc: "Lists"
+          - desc: "Lists"
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch 12, \"Animated Problem Solving\""
+          - title: "Ch 8, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/part_two.html#%28part._ch~3alists1%29"
+          - title: "Intermezzo 2, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/i2-3.html"
+          - title: "Ch 9, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/part_two.html#%28part._ch~3adesign-lists%29"
         videos:
           - title: ""
             link: ""
@@ -330,16 +323,23 @@ weeks:
             link: ""
   - week_offset: 8
     homework:
-      - title: ""
-        out: 2023-08-28
+      - title: "Lists ProblemSet"
+        out: M
+        starter_code: "ps2"
+      - title: "Aliens Attack v.4"
+        out: W
+        starter_code: "lsp4"
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: "Designing w/Lists"
         topics:
           - desc: ""
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch 10-10.3, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/part_two.html#%28part._ch~3alists2%29"
+          - title: "Ch 11, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/part_two.html#%28part._ch~3alist-sort%29"
+          - title: "Ch 13, \"Animated Problem Solving\""
         videos:
           - title: ""
             link: ""
@@ -347,12 +347,13 @@ weeks:
           - title: ""
             link: ""
       - day: W  # Wednesday
-        title: "Title"
+        title: "Aliens v4"
         topics:
           - desc: ""
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch. 14, \"Animated Problem Solving\""
+          - title: "Ch. 15, \"Animated Problem Solving\""
+          - title: "Ch. 16, \"Animated Problem Solving\""
         videos:
           - title: ""
             link: ""
