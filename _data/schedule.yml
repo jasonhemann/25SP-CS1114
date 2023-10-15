@@ -362,11 +362,11 @@ weeks:
             link: ""
   - week_offset: 9
     homework:
-      - title: ""
-        out: 2023-08-28
+      - title: "Higher-order functions ProblemSet"
+        out: W
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: "Trees, Mutual Recursion, and Cross-product templates"
         topics:
           - desc: ""
         pre_readings:
@@ -379,27 +379,29 @@ weeks:
           - title: ""
             link: ""
       - day: W  # Wednesday
-        title: "Title"
+        title: "Lambdas and function abstractions"
         topics:
           - desc: ""
         pre_readings:
           - title: ""
             link: ""
         videos:
-          - title: ""
-            link: ""
+          - title: "Understanding a higher-order function"
+            link: "https://www.youtube.com/watch?v=2hmamosiqGI"
         extra_resources:
           - title: ""
             link: ""
   - week_offset: 10
     homework:
-      - title: ""
-        out: 2023-08-28
+      - title: "Aliens Attack v.5"
+        out: W
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: "Open lab practice session"
         topics:
-          - desc: ""
+          - desc: "Practicing designing higher-order functions"
+          - desc: "Practicing working in groups"
+          - desc: "Practice with the ISL+ docs and APIs"
         pre_readings:
           - title: ""
             link: ""
