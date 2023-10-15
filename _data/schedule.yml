@@ -141,6 +141,8 @@ weeks:
         extra_resources:
           - title: "Animated Problem Solving Github Repository"
             link: "https://github.com/morazanm/Animating-Programs-Code"
+          - title: "Space Invaders Game Play"
+            link: "https://www.youtube.com/watch?v=MU4psw3ccUI"
   - week_offset: 3
     homework:
       - title: "Designing with Conditionals Quiz"
@@ -303,10 +305,11 @@ weeks:
           - title: "Design & iterative dev w/a real game"
             link: "https://www.youtube.com/watch?v=1SlGgCxJa3w"
       - day: W  # Wednesday
-        title: "Lists and arbitrarily-sized data"
+        title: "Arbitrarily-sized Data and Lists"
         topics:
+          - desc: "Arbitrarily-sized Data"
           - desc: "Lists"
-          - desc: "Lists"
+          - desc: "Templates for Functions on Lists"
         pre_readings:
           - title: "Ch 12, \"Animated Problem Solving\""
           - title: "Ch 8, \"How to Design Programs\""
@@ -316,11 +319,19 @@ weeks:
           - title: "Ch 9, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/part_two.html#%28part._ch~3adesign-lists%29"
         videos:
-          - title: ""
-            link: ""
+          - title: "Unlimited Data Examples"
+            link: "https://www.youtube.com/watch?v=d-pbfT23hS8"
+          - title: "Unlimited Data"
+            link: "https://www.youtube.com/watch?v=rcZ4zMMhbn0"
+          - title: "Templates for Unlimited Data"
+            link: "https://www.youtube.com/watch?v=YdCDHrixR-Y"
+          - title: "List Abbreviations"
+            link: "https://www.youtube.com/watch?v=dc8onTx8k_M"
         extra_resources:
-          - title: ""
-            link: ""
+          - title: "Templates for Lists"
+            link: "https://www.youtube.com/watch?v=EkIasx-vr-c"
+          - title: "Building w/cons in 3D"
+            link: "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F6rbq35occu441.jpg"
   - week_offset: 8
     homework:
       - title: "Lists ProblemSet"
@@ -363,6 +374,7 @@ weeks:
   - week_offset: 9
     homework:
       - title: "Higher-order functions ProblemSet"
+        starter_code: "ps3"
         out: W
     sessions:
       - day: M  # Monday
@@ -388,6 +400,12 @@ weeks:
         videos:
           - title: "Understanding a higher-order function"
             link: "https://www.youtube.com/watch?v=2hmamosiqGI"
+          - title: "Built-in Abstractions"
+            link: "https://www.youtube.com/watch?v=KBr91uGNdEY"
+          - title: "Understanding map"
+            link: "https://www.youtube.com/watch?v=jh8jHrjgMco"
+          - title: "Understanding foldr"
+            link: "https://www.youtube.com/watch?v=FgyFS8sjiZo"
         extra_resources:
           - title: ""
             link: ""
@@ -409,10 +427,18 @@ weeks:
           - title: ""
             link: ""
         extra_resources:
-          - title: ""
-            link: ""
+          - title: "Invaders Data Definitions"
+            link: "https://www.youtube.com/watch?v=QGaIyyKuNGM"
+          - title: "Animating Invaders"
+            link: "https://www.youtube.com/watch?v=kxve9YH76Oc"
+          - title: "Adding Ship and Bullet"
+            link: "https://www.youtube.com/watch?v=6_0qVez9uY0"
+          - title: "Drawing the World"
+            link: "https://www.youtube.com/watch?v=EQ8jTuQu2n4"
+          - title: "Moving the World"
+            link: "https://www.youtube.com/watch?v=onDYL6az1cY"
       - day: W  # Wednesday
-        title: "Title"
+        title: "Aliens Attach v.5"
         topics:
           - desc: ""
         pre_readings:
@@ -422,8 +448,8 @@ weeks:
           - title: ""
             link: ""
         extra_resources:
-          - title: ""
-            link: ""
+          - title: "Rebecca Heineman won the 1st eSports competition playing \"Space Invaders\""
+            link: "https://www.atariwomen.org/stories/rebecca-heineman/"
   - week_offset: 11
     homework:
       - title: ""
