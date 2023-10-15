@@ -358,7 +358,7 @@ weeks:
           - title: ""
             link: ""
       - day: W  # Wednesday
-        title: "Aliens v4"
+        title: "Aliens Attack v.4"
         topics:
           - desc: ""
         pre_readings:
@@ -382,8 +382,9 @@ weeks:
         topics:
           - desc: ""
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch. 16 \"Animated Problem Solving\""
+          - title: "Ch. 17 \"Animated Problem Solving\""
+          - title: "Ch. 18 \"Animated Problem Solving\""
         videos:
           - title: ""
             link: ""
@@ -391,12 +392,14 @@ weeks:
           - title: ""
             link: ""
       - day: W  # Wednesday
-        title: "Lambdas and function abstractions"
+        title: "Functional Abstraction"
         topics:
           - desc: ""
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch. 20 \"Animated Problem Solving\""
+          - title: "Ch. 21 \"Animated Problem Solving\""
+          - title: "Ch. 16, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3a3use%29"
         videos:
           - title: "Understanding a higher-order function"
             link: "https://www.youtube.com/watch?v=2hmamosiqGI"
@@ -411,10 +414,11 @@ weeks:
             link: ""
   - week_offset: 10
     homework:
-      - title: "Aliens Attack v.5"
+      - title: "Lambda abstractions ProblemSet"
+        starter_code: "ps4"
         out: W
     sessions:
-      - day: M  # Monday
+      - day: M # Monday
         title: "Open lab practice session"
         topics:
           - desc: "Practicing designing higher-order functions"
@@ -437,23 +441,29 @@ weeks:
             link: "https://www.youtube.com/watch?v=EQ8jTuQu2n4"
           - title: "Moving the World"
             link: "https://www.youtube.com/watch?v=onDYL6az1cY"
+          - title: "Rebecca Heineman won the 1st eSports competition playing \"Space Invaders\""
+            link: "https://www.atariwomen.org/stories/rebecca-heineman/"
       - day: W  # Wednesday
-        title: "Aliens Attach v.5"
+        title: "Local definitions and lambda abstraction"
         topics:
           - desc: ""
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch. 14, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3add-similarities%29"
+          - title: "Ch. 22, \"Animated Problem Solving\""
+          - title: "Ch. 15, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3aabstract%29"
         videos:
           - title: ""
             link: ""
         extra_resources:
-          - title: "Rebecca Heineman won the 1st eSports competition playing \"Space Invaders\""
-            link: "https://www.atariwomen.org/stories/rebecca-heineman/"
+          - title: ""
+            link: ""
   - week_offset: 11
     homework:
-      - title: ""
-        out: 2023-08-28
+      - title: "Aliens Attack v.5"
+        out: W
+        starter_code: "lsp5"
     sessions:
       - day: M  # Monday
         title: "Title"
@@ -469,12 +479,11 @@ weeks:
           - title: ""
             link: ""
       - day: W  # Wednesday
-        title: "Title"
+        title: "Aliens Attack v.5"
         topics:
           - desc: ""
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch. 23 \"Animated Problem Solving\""
         videos:
           - title: ""
             link: ""
@@ -484,15 +493,20 @@ weeks:
   - week_offset: 12
     homework:
       - title: ""
-        out: 2023-08-28
+        out: W
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: "Loops and pattern matching"
         topics:
-          - desc: ""
+          - desc: "\"Syntax Sugar\""
+          - desc: "Loop constructs"
+          - desc: "Pattern matching"
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Intermezzo 3, Pt II, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/i3-4.html#%28part._.I.S.L_for_.Loops%29"
+          - title: "Intermezzo 3, Pt III, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/i3-4.html#%28part._.Pattern_.Matching%29"
+          - title: "Ch. 24, \"Animated Problem Solving\""
         videos:
           - title: ""
             link: ""
@@ -515,10 +529,10 @@ weeks:
   - week_offset: 13
     homework:
       - title: ""
-        out: 2023-08-28
+        out: W
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: ""
         topics:
           - desc: ""
         pre_readings:
@@ -546,10 +560,10 @@ weeks:
   - week_offset: 14
     homework:
       - title: ""
-        out: 2023-08-28
+        out: W
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: ""
         topics:
           - desc: ""
         pre_readings:
@@ -577,10 +591,10 @@ weeks:
   - week_offset: 15
     homework:
       - title: ""
-        out: 2023-08-28
+        out: W
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: ""
         topics:
           - desc: ""
         pre_readings:
