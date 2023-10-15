@@ -1,4 +1,7 @@
-semester_start: 2023-08-28T00:00:00-04:00
+semester_start: "2023-08-28T00:08:00-04:00"
+semester_start_week: 35
+dst_start_week: 11 # "2023-03-12T02:00:00-05:00"
+dst_end_week: 44 # "2023-11-05T02:00:00-04:00"
 weeks:
   - week_offset: 0
     homework:
@@ -354,9 +357,7 @@ weeks:
         videos:
           - title: ""
             link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+        extra_resources: []
       - day: W  # Wednesday
         title: "Aliens Attack v.4"
         topics:
@@ -368,9 +369,7 @@ weeks:
         videos:
           - title: ""
             link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+        extra_resources: []
   - week_offset: 9
     homework:
       - title: "Higher-order functions ProblemSet"
@@ -388,9 +387,7 @@ weeks:
         videos:
           - title: ""
             link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+        extra_resources: []
       - day: W  # Wednesday
         title: "Functional Abstraction"
         topics:
@@ -409,9 +406,7 @@ weeks:
             link: "https://www.youtube.com/watch?v=jh8jHrjgMco"
           - title: "Understanding foldr"
             link: "https://www.youtube.com/watch?v=FgyFS8sjiZo"
-        extra_resources:
-          - title: ""
-            link: ""
+        extra_resources: []
   - week_offset: 10
     homework:
       - title: "Lambda abstractions ProblemSet"
@@ -456,9 +451,7 @@ weeks:
         videos:
           - title: ""
             link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+        extra_resources: []
   - week_offset: 11
     homework:
       - title: "Aliens Attack v.5"
