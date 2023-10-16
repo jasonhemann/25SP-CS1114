@@ -18,5 +18,10 @@ Filed under [./_data/](./_data) are information about:
 
 [schedule.md](./schedule.md) contains the code for generating a schedule page from the above yml file.
 
-## Based on [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+This calculation makes several key assumptions, many of which do not generalize.
+1. It assumes that the year starts on a Sunday
+2. It assumes that a course starting in 202X ends in 202X; that is, a course does not extend into the next year. 
+3. I believe it assumes that DST always begins on a Sunday, between weeks, and that the semester never starts *during* the Fall back.
+
+## based on [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 

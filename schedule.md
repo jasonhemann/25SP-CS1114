@@ -65,7 +65,8 @@ classes: wide
 		</ul>
 	  </li>
 	  {% endif %}
-  	  {% if session.pre_readings.size + session.videos.size > 0 %}
+	  {% assign total_size = session.pre_readings.size | plus: session.videos.size %} 
+  	  {% if total_size > 0 %}
 	  <li><strong>Preparation:</strong>
 		<ul>
 	  	  {% if session.pre_readings.size > 0 %}
