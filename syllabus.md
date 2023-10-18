@@ -45,7 +45,7 @@ Q&A. We will sometimes use class periods for group problem-solving
 
 - Personal, private (FERPA, etc) messages: [{{ site.author.emailaddr }}]({{ site.author.email }}). You should expect a response within 48 hours. More details about communicating with the instructor [here]({{ site.baseurl }}/instructor/).
 
-A great regular way to reach out for help is via our [office hours]({{ site.baseurl }}/office-hours/).
+A great regular way to reach out for help is via our [office hours]({{ site.baseurl }}/people/).
 
 ## Textbooks
 

@@ -1,6 +1,6 @@
 ---
 title: People
-layout: collection
+layout: single
 collection: people
 ---
 

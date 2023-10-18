@@ -383,7 +383,6 @@ weeks:
         pre_readings:
           - title: "Ch. 16 \"Animated Problem Solving\""
           - title: "Ch. 17 \"Animated Problem Solving\""
-          - title: "Ch. 18 \"Animated Problem Solving\""
         videos:
           - title: ""
             link: ""
@@ -393,10 +392,14 @@ weeks:
         topics:
           - desc: ""
         pre_readings:
-          - title: "Ch. 20 \"Animated Problem Solving\""
-          - title: "Ch. 21 \"Animated Problem Solving\""
+          - title: "Ch. 14, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3add-similarities%29"
+          - title: "Ch. 15, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3aabstract%29"
           - title: "Ch. 16, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3a3use%29"
+          - title: "Ch. 20 \"Animated Problem Solving\""
+          - title: "Ch. 21 \"Animated Problem Solving\""
         videos:
           - title: "Understanding a higher-order function"
             link: "https://www.youtube.com/watch?v=2hmamosiqGI"
@@ -443,11 +446,9 @@ weeks:
         topics:
           - desc: ""
         pre_readings:
-          - title: "Ch. 14, \"How to Design Programs\""
-            link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3add-similarities%29"
           - title: "Ch. 22, \"Animated Problem Solving\""
-          - title: "Ch. 15, \"How to Design Programs\""
-            link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3aabstract%29"
+          - title: "Ch. 17, \"How to Design Programs\""
+            link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3a3lambda%29"
         videos:
           - title: ""
             link: ""
@@ -507,12 +508,13 @@ weeks:
           - title: ""
             link: ""
       - day: W  # Wednesday
-        title: "Title"
+        title: "Mutually Recursive Data"
         topics:
           - desc: ""
         pre_readings:
-          - title: ""
-            link: ""
+          - title: "Ch. 18 \"Animated Problem Solving\""
+          - title: "Ch. 19-§19.4 \"How to Design Programs\""
+            link: "https://htdp.org/2020-8-1/Book/part_four.html#%28part._ch~3apoetry-sexp%29"
         videos:
           - title: ""
             link: ""
