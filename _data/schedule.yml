@@ -347,7 +347,10 @@ weeks:
       - day: M  # Monday
         title: "Designing w/Lists"
         topics:
-          - desc: ""
+          - desc: "Searching lists"
+          - desc: "operating over lists"
+          - desc: "Designing by composition"
+          - desc: "Desiging for structured data and recursive structures"
         pre_readings:
           - title: "Ch 10-10.3, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/part_two.html#%28part._ch~3alists2%29"
@@ -355,13 +358,16 @@ weeks:
             link: "https://htdp.org/2023-3-6/Book/part_two.html#%28part._ch~3alist-sort%29"
           - title: "Ch 13, \"Animated Problem Solving\""
         videos:
-          - title: ""
-            link: ""
         extra_resources: []
       - day: W  # Wednesday
         title: "Aliens Attack v.4"
         topics:
-          - desc: ""
+          - desc: "Adding Lists of aliens"
+          - desc: "Refining the world"
+          - desc: "Refining the shot data definition"
+          - desc: "Adding multiple shots at once"
+          - desc: "Refining draw world"
+          - desc: "Numbers as structured data"
         pre_readings:
           - title: "Ch. 14, \"Animated Problem Solving\""
           - title: "Ch. 15, \"Animated Problem Solving\""
@@ -401,6 +407,8 @@ weeks:
           - title: "Ch. 20 \"Animated Problem Solving\""
           - title: "Ch. 21 \"Animated Problem Solving\""
         videos:
+          - title: ""
+            link: ""
           - title: "Understanding a higher-order function"
             link: "https://www.youtube.com/watch?v=2hmamosiqGI"
           - title: "Built-in Abstractions"
