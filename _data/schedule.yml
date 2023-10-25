@@ -357,7 +357,9 @@ weeks:
           - title: "Ch 11, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/part_two.html#%28part._ch~3alist-sort%29"
           - title: "Ch 13, \"Animated Problem Solving\""
-        extra_resources: []
+        extra_resources:
+          title: "Abstracting from Data Definitions"
+          link: "https://www.youtube.com/watch?v=2qWQHhTxab8"
       - day: W  # Wednesday
         title: "Aliens Attack v.4"
         topics:
@@ -371,7 +373,10 @@ weeks:
           - title: "Ch. 14, \"Animated Problem Solving\""
           - title: "Ch. 15, \"Animated Problem Solving\""
           - title: "Ch. 16, \"Animated Problem Solving\""
-        extra_resources: []
+        extra_resources:
+          - title: "Constructing Numbers"
+            link: "https://www.youtube.com/watch?v=njf-am6PJ4A"
+          - title:
   - week_offset: 9
     homework:
       - title: "Higher-order functions ProblemSet"
@@ -381,7 +386,7 @@ weeks:
       - day: M  # Monday
         title: "Trees, Mutual Recursion, and Cross-product templates"
         topics:
-          - desc: ""
+          - desc: "Lab work"
         pre_readings:
           - title: "Ch. 16 \"Animated Problem Solving\""
           - title: "Ch. 17 \"Animated Problem Solving\""
@@ -392,7 +397,9 @@ weeks:
       - day: W  # Wednesday
         title: "Functional Abstraction"
         topics:
-          - desc: ""
+          - desc: "Using data abstraction over functions"
+          - desc: "Using function abstraction over functions"
+          - desc: "Some built in higher-order functions"
         pre_readings:
           - title: "Ch. 14, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3add-similarities%29"
@@ -403,10 +410,20 @@ weeks:
           - title: "Ch. 20 \"Animated Problem Solving\""
           - title: "Ch. 21 \"Animated Problem Solving\""
         videos:
-          - title: ""
-            link: ""
+          - title: "Function Abstraction soup to nuts"
+            link: "https://www.youtube.com/watch?v=CCcfJh3uiTc"
+          - title: "Writing Similar Functions"
+            link: "https://www.youtube.com/watch?v=FmUnN9TkF1U"
+          - title: "Abstracting Similar Functions"
+            link: "https://www.youtube.com/watch?v=2maMdH2Hsas"
+          - title: "Abstracting Functions"
+            link: "https://www.youtube.com/watch?v=zuff_o1G0cU"
+          - title: "Exposing similarity in functions"
+            link: "https://www.youtube.com/watch?v=R59YEo1tPLQ"
           - title: "Understanding a higher-order function"
             link: "https://www.youtube.com/watch?v=2hmamosiqGI"
+          - title: "A built-in abstraction"
+            link: "https://www.youtube.com/watch?v=vkosa_PIT_0"
           - title: "Built-in Abstractions"
             link: "https://www.youtube.com/watch?v=KBr91uGNdEY"
           - title: "Understanding map"
@@ -426,12 +443,6 @@ weeks:
           - desc: "Practicing designing higher-order functions"
           - desc: "Practicing working in groups"
           - desc: "Practice with the ISL+ docs and APIs"
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
         extra_resources:
           - title: "Invaders Data Definitions"
             link: "https://www.youtube.com/watch?v=QGaIyyKuNGM"
@@ -448,15 +459,16 @@ weeks:
       - day: W  # Wednesday
         title: "Local definitions and lambda abstraction"
         topics:
-          - desc: ""
+          - desc: "Local definitions and internal functions"
+          - desc: "functions as values"
+          - desc: "anonymous functions"
         pre_readings:
           - title: "Ch. 22, \"Animated Problem Solving\""
           - title: "Ch. 17, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/part_three.html#%28part._ch~3a3lambda%29"
         videos:
-          - title: ""
-            link: ""
-        extra_resources: []
+          - title: "Introduction to Local"
+            link: "https://www.youtube.com/watch?v=UBWuHaetMxw"
   - week_offset: 11
     homework:
       - title: "Aliens Attack v.5"
