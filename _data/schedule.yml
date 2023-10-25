@@ -357,7 +357,6 @@ weeks:
           - title: "Ch 11, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/part_two.html#%28part._ch~3alist-sort%29"
           - title: "Ch 13, \"Animated Problem Solving\""
-        videos:
         extra_resources: []
       - day: W  # Wednesday
         title: "Aliens Attack v.4"
@@ -372,9 +371,6 @@ weeks:
           - title: "Ch. 14, \"Animated Problem Solving\""
           - title: "Ch. 15, \"Animated Problem Solving\""
           - title: "Ch. 16, \"Animated Problem Solving\""
-        videos:
-          - title: ""
-            link: ""
         extra_resources: []
   - week_offset: 9
     homework:
