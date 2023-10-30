@@ -390,9 +390,6 @@ weeks:
         pre_readings:
           - title: "Ch. 16 \"Animated Problem Solving\""
           - title: "Ch. 17 \"Animated Problem Solving\""
-        videos:
-          - title: ""
-            link: ""
         extra_resources: []
       - day: W  # Wednesday
         title: "Functional Abstraction"
