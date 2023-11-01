@@ -380,7 +380,7 @@ weeks:
   - week_offset: 9
     homework:
       - title: "Higher-order functions ProblemSet"
-        starter_code: "ps3"
+        starter_code: "ps4"
         out: W
     sessions:
       - day: M  # Monday
@@ -431,7 +431,7 @@ weeks:
   - week_offset: 10
     homework:
       - title: "Lambda abstractions ProblemSet"
-        starter_code: "ps4"
+        starter_code: "ps5"
         out: W
     sessions:
       - day: M # Monday
