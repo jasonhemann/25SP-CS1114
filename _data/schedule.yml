@@ -468,39 +468,23 @@ weeks:
             link: "https://www.youtube.com/watch?v=UBWuHaetMxw"
   - week_offset: 11
     homework:
-      - title: "Aliens Attack v.5"
-        out: W
-        starter_code: "lsp5"
     sessions:
       - day: M  # Monday
-        title: "Title"
+        title: "Big Daily Quiz"
         topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
+          - desc: "Longitudinal Practice"
       - day: W  # Wednesday
         title: "Aliens Attack v.5"
         topics:
-          - desc: ""
+          - desc: "Aliens Ch. 5"
+          - desc: "Encapsulation"
+          - desc: "Abstraction in context"
+          - desc: "Lambda expressions in context"
+          - desc: "Refactoring"
         pre_readings:
           - title: "Ch. 23 \"Animated Problem Solving\""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
   - week_offset: 12
     homework:
-      - title: ""
-        out: W
     sessions:
       - day: M  # Monday
         title: "Loops and pattern matching"
@@ -517,6 +501,72 @@ weeks:
         videos:
           - title: ""
             link: ""
+      - day: W  # Wednesday
+        title: "Thanksgiving Break - Class is Cancelled"
+  - week_offset: 13
+    homework:
+      - title: ""
+        out: W
+    sessions:
+      - day: M  # Monday
+        title: "Interfaces"
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: "Ch. 25, \"Animated Problem Solving\""
+          - title: ""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+      - day: W  # Wednesday
+        title: "Introduction to Distributed Programming"
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: "Ch. 26, \"Animated Problem Solving\""
+        videos:
+          - title: ""
+            link: ""
+        extra_resources:
+          - title: ""
+            link: ""
+  - week_offset: 14
+    homework:
+      - title: "Aliens Attack v.6/7"
+        out: W
+    sessions:
+      - day: M  # Monday
+        title: "Aliens Attack v.6"
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: "Ch. 27, \"Animated Problem Solving\""
+      - day: W  # Wednesday
+        title: "Aliens Attack v.7"
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: "Ch. 28, \"Animated Problem Solving\""
+            link: ""
+  - week_offset: 15
+    homework:
+      - title: ""
+        out: W
+    sessions:
+      - day: M  # Monday
+        title: "Aliens Attack v.8"
+        topics:
+          - desc: "Aliens Attack v.8"
+        pre_readings:
+          - title: "Ch. 28, \"Animated Problem Solving\""
+            link: ""
+        videos:
+          - title: ""
+            link: ""
         extra_resources:
           - title: ""
             link: ""
@@ -528,99 +578,6 @@ weeks:
           - title: "Ch. 18 \"Animated Problem Solving\""
           - title: "Ch. 19-§19.4 \"How to Design Programs\""
             link: "https://htdp.org/2020-8-1/Book/part_four.html#%28part._ch~3apoetry-sexp%29"
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
-  - week_offset: 13
-    homework:
-      - title: ""
-        out: W
-    sessions:
-      - day: M  # Monday
-        title: ""
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
-      - day: W  # Wednesday
-        title: "Title"
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
-  - week_offset: 14
-    homework:
-      - title: ""
-        out: W
-    sessions:
-      - day: M  # Monday
-        title: ""
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
-      - day: W  # Wednesday
-        title: "Title"
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
-  - week_offset: 15
-    homework:
-      - title: ""
-        out: W
-    sessions:
-      - day: M  # Monday
-        title: ""
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
-        videos:
-          - title: ""
-            link: ""
-        extra_resources:
-          - title: ""
-            link: ""
-      - day: W  # Wednesday
-        title: "Title"
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: ""
-            link: ""
         videos:
           - title: ""
             link: ""
