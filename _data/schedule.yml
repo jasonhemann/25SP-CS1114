@@ -535,6 +535,8 @@ weeks:
         extra_resources:
           - title: "Basic Client Server Code"
             link: "https://github.com/jasonhemann/23FA-CS1114/tree/master/_starter_code/basic-client-server"
+          - title: "Universe Documentation"
+            link: "https://docs.racket-lang.org/teachpack/2htdpuniverse.html"
       - day: W  # Wednesday
         title: "Aliens Attack v.7"
         topics:
