@@ -547,6 +547,7 @@ weeks:
   - week_offset: 15
     homework:
       - title: "Aliens Attack v.8"
+        starter_code: "lsp8"
         out: M
     sessions:
       - day: M  # Monday
