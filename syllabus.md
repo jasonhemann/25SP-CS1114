@@ -35,8 +35,6 @@ your assignments. You *must* read assigned textbook material, and you
 
 ## General Class Schedule
 
-EDIT 2023-08-27
-
 Lecture periods will generally be instructional sessions and student
 Q&A. We will sometimes use class periods for group problem-solving
 "open group work" sessions. 
