@@ -1,18 +1,18 @@
 first_week_of_year_offset: 1 # Year starts on a Monday
-semester_start: "2024-01-22T00:00:00-04:00"
+semester_start: "2024-01-15T00:00:00-04:00"
 semester_start_week: 4 # https://www.epochconverter.com/weeks/202X
 dst_start_week: 10 # "2024-03-10T02:00:00-05:00"
 dst_end_week: 44 # "2024-11-05T02:00:00-04:00"
 weeks:
   - week_offset: 0
     homework:
-      - title: "Syllabus Quiz"
-        out: M
-      - title: "Basic Environment Setup Quiz"
-        out: W
-        starter_code: "quiz2"
+      # - title: "Syllabus Quiz"
+      #   out: M
+      # - title: "Basic Environment Setup Quiz"
+      #   out: W
+      #   starter_code: "quiz2"
     sessions:
-      - day: M  # Monday
+      - day: W  # Monday
         title: "Basic Calculations with Dr Racket"
         topics:
           - desc: "Course Introduction"
@@ -42,7 +42,16 @@ weeks:
           - title: "Calculating with images"
             link: "https://www.youtube.com/watch?v=6wauy712RA4"
         extra_resources: []
-      - day: W  # Wednesday
+  - week_offset: 1
+    homework:
+      - title: "HtDP Prologue Rocket Ship LargeSoftwareProject"
+        starter_code: "lsp0"
+        out: W
+      - title: "First Functions ProblemSet"
+        starter_code: "ps0"
+        out: W
+    sessions:
+      - day: M  # Monday
         title: "Manipulating Images"
         topics:
           - desc: "Images as values"
@@ -75,17 +84,6 @@ weeks:
         extra_resources:
            - title: "How to Design Functions, in slow motion"
              link: "https://www.youtube.com/watch?v=q6GwIWwKowU"
-  - week_offset: 1
-    homework:
-      - title: "HtDP Prologue Rocket Ship LargeSoftwareProject"
-        starter_code: "lsp0"
-        out: W
-      - title: "First Functions ProblemSet"
-        starter_code: "ps0"
-        out: W
-    sessions:
-      - day: M  # Monday
-        title: "Labor Day - Class is Cancelled"
       - day: W  # Wednesday
         title: "Functions & Design"
         topics:
