@@ -5,6 +5,7 @@ classes: wide
 ---
 <!-- Constants -->
 {% assign days = "M,T,W,R,F,Sa,Su" | split: "," %}
+{% assign SECONDS_PER_HOUR = 3600 %}
 {% assign SECONDS_PER_DAY = 86400 %}
 {% assign DAYS_IN_WEEK = 7 %}
 {% assign SECONDS_PER_WEEK = SECONDS_PER_DAY | times: DAYS_IN_WEEK %}
@@ -14,17 +15,18 @@ classes: wide
 {% assign semester_start_week = site.data.schedule.semester_start_week %}
 {% assign dst_start_week = site.data.schedule.dst_start_week %}
 {% assign dst_end_week = site.data.schedule.dst_end_week %}
+{% assign first_week_offset_in_seconds = site.data.schedule.first_week_of_year_offset | times: SECONDS_PER_DAY %}
 
 {% for week in site.data.schedule.weeks %}
 <details>
-{% assign week_start_seconds =  week.week_offset | times: SECONDS_PER_WEEK | plus: semester_start_seconds %}
+{% assign week_start_seconds =  week.week_offset | times: SECONDS_PER_WEEK | plus: first_week_offset_in_seconds | plus: semester_start_seconds %}
 {% assign week_num = week.week_offset | plus: semester_start_week %}
 <!-- If |---StartDST--StartSemester--EndDST--Current-Week--| -->
 {% if semester_start_week < dst_end_week and dst_end_week < week_num %}
-	{% assign week_start_seconds = week_start_seconds | plus: 3600 %}
+	{% assign week_start_seconds = week_start_seconds | plus: SECONDS_PER_HOUR %}
 <!-- If |--StartSemester--StartDST--Current-Week--EndDST--| -->
 {% elsif dst_start_week < semester_start_week and week_num < dst_end_timestamp %}
-	{% assign week_start_seconds = week_start_seconds | minus: 3600 %}
+	{% assign week_start_seconds = week_start_seconds | minus: SECONDS_PER_HOUR %}
 {% endif %}
 {% assign week_end_seconds = week_start_seconds | plus: SATURDAY_SECONDS_OFFSET %}
 
