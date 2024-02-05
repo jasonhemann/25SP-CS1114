@@ -1,12 +1,6 @@
 # Aliens Attack v.0
 
-I had intended to offer this assignment for students, for submission
-and for credit.
-
-I had actually failed to do so as an independent assignment, so I'll
-skip it for this year.
-
-The students had three tasks for this assignment.
+You have three tasks for this assignment.
 
 ## Task 1.
 
