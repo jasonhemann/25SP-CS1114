@@ -10,9 +10,11 @@ Implement Aliens Attack v.0 as described in "Animated Problem Solving"
 
 Implement your own version of ROCKET-IMG, ALIEN-IMG, and SHOT-IMG.
 These should be non-trivial definitions. That is, like Marco, yours
-should require some Use those instead of the ones that Marco gave us
-in the textbook. Make sure and follow the design recipe as you
-implement it.
+should require some use of the image library to create your images out
+of combinations of those elements. So, do not just use the ones that
+Marco gave us in the textbook, and do not (merely) use pictures you
+downloaded from the internet. Make sure and follow the design recipe
+as you implement it.
 
 ## Task 3.
 
