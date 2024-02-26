@@ -284,13 +284,6 @@ weeks:
             link: "https://youtu.be/LDSH00b5PUc"
   - week_offset: 6
     homework:
-    sessions:
-      - day: M  # Monday
-        title: "NONE - FALL BREAK"
-      - day: W  # Wednesday
-        title: "NONE - CLASS CANCELLED"
-  - week_offset: 7
-    homework:
       - title: "Aliens Attack v.3"
         out: M
         starter_code: "lsp3"
@@ -337,6 +330,13 @@ weeks:
             link: "https://www.youtube.com/watch?v=EkIasx-vr-c"
           - title: "Building w/cons in 3D"
             link: "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F6rbq35occu441.jpg"
+  - week_offset: 7
+    homework:
+    sessions:
+      - day: M  # Monday
+        title: "NONE - SPRING BREAK"
+      - day: W  # Wednesday
+        title: "NONE - SPRING BREAK"
   - week_offset: 8
     homework:
       - title: "Lists ProblemSet"
