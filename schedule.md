@@ -19,13 +19,15 @@ classes: wide
 
 {% for week in site.data.schedule.weeks %}
 <details>
+<!-- Calculate the beginning of this week (in seconds) and the week num [n of 52] via offsets from the beginnings of the semester -->
 {% assign week_start_seconds =  week.week_offset | times: SECONDS_PER_WEEK | plus: first_week_offset_in_seconds | plus: semester_start_seconds %}
 {% assign week_num = week.week_offset | plus: semester_start_week %}
-<!-- If |---StartDST--StartSemester--EndDST--Current-Week--| -->
-{% if semester_start_week < dst_end_week and dst_end_week < week_num %}
+<!-- Must account for DST. Recall we are measuring /seconds/ Two situations matter:-->
+<!-- If |---StartDST--StartSemester--EndDST--Current-Week--| If semester_start_seconds is in DST and then we leave it, fall back.-->
+{% if semester_start_week < dst_end_week and week_num > dst_end_week %}
 	{% assign week_start_seconds = week_start_seconds | plus: SECONDS_PER_HOUR %}
-<!-- If |--StartSemester--StartDST--Current-Week--EndDST--| -->
-{% elsif dst_start_week < semester_start_week and week_num < dst_end_timestamp %}
+<!-- If |--StartSemester--StartDST--Current-Week--EndDST--| If semester_start_seconds is before DST and then we enter it, spring forward.-->
+{% elsif semester_start_week < dst_start_week and week_num > dst_start_week %}
 	{% assign week_start_seconds = week_start_seconds | minus: SECONDS_PER_HOUR %}
 {% endif %}
 {% assign week_end_seconds = week_start_seconds | plus: SATURDAY_SECONDS_OFFSET %}
