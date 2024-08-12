@@ -1,5 +1,13 @@
 # Jason Hemann 1114 Course Website
 
+## Prerequisites 
+
+- `ruby`, `gem`, `bundle` all available on path
+
+## Building
+
+From within this directory, execute `bundle exec jekyll serve`
+
 ## Data
 
 Filed under [./_data/](./_data) are information about:
