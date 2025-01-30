@@ -2,7 +2,7 @@
 (require 2htdp/image)
 
 ;; Your job is to read the Prologue to How to Design Programs and follow along.
-;; Working as a pair, you will implement the code as they do.
+;; (https://htdp.org/2024-11-6/Book/part_prologue.html)
 ;; You will be able to follow along and have implemented a little game/simulation.
 ;; Follow the prologue precisely.
 
