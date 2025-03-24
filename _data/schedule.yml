@@ -324,12 +324,6 @@ weeks:
         title: "NONE - SPRING BREAK"
   - week_offset: 8
     homework:
-      - title: "Lists ProblemSet"
-        out: M
-        starter_code: "ps2"
-      - title: "Aliens Attack v.4"
-        out: W
-        starter_code: "lsp4"
     sessions:
       - day: M  # Monday
         title: "Designing w/Lists"
@@ -366,9 +360,6 @@ weeks:
           - title:
   - week_offset: 9
     homework:
-      - title: "Higher-order functions ProblemSet"
-        starter_code: "ps4"
-        out: W
     sessions:
       - day: M  # Monday
         title: "Trees, Mutual Recursion, and Cross-product templates"
@@ -417,9 +408,15 @@ weeks:
         extra_resources: []
   - week_offset: 10
     homework:
-      - title: "Lambda abstractions ProblemSet"
-        starter_code: "ps5"
+      - title: "Lists ProblemSet"
+        out: M
+        starter_code: "ps2"
+      - title: "Higher-order functions ProblemSet"
+        starter_code: "ps4"
+        out: M
+      - title: "Aliens Attack v.4"
         out: W
+        starter_code: "lsp4"
     sessions:
       - day: M # Monday
         title: "Open lab practice session"
@@ -472,6 +469,9 @@ weeks:
           - title: "Ch. 23 \"Animated Problem Solving\""
   - week_offset: 12
     homework:
+      - title: "Lambda abstractions ProblemSet"
+        starter_code: "ps5"
+        out: W
     sessions:
       - day: M  # Monday
         title: "Loops and pattern matching"
