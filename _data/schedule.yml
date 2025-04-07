@@ -474,6 +474,14 @@ weeks:
         out: W
     sessions:
       - day: M  # Monday
+        title: "Objects, object-oriented programming"
+        topics:
+          - desc: "local blocks"
+          - desc: "multiple behaviors"
+          - desc: "selecting multiple behaviors"
+          - desc: "local values, constructors"
+          - desc: "object-oriented style programming"
+      - day: W  # Wednesday
         title: "Loops and pattern matching"
         topics:
           - desc: "\"Syntax Sugar\""
@@ -485,16 +493,32 @@ weeks:
           - title: "Intermezzo 3, Pt III, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/i3-4.html#%28part._.Pattern_.Matching%29"
           - title: "Ch. 24, \"Animated Problem Solving\""
-      - day: W  # Wednesday
-        title: "Thanksgiving Break - Class is Cancelled"
   - week_offset: 13
     sessions:
       - day: M  # Monday
+        title: "Mutually Recursive Data"
+        topics:
+          - desc: ""
+        pre_readings:
+          - title: "Ch. 18 \"Animated Problem Solving\""
+          - title: "Ch. 19-§19.4 \"How to Design Programs\""
+            link: "https://htdp.org/2020-8-1/Book/part_four.html#%28part._ch~3apoetry-sexp%29"
+        extra_resources:
+          - title: ""
+            link: ""
+      - day: W  # Wednesday
         title: "Interfaces"
         topics:
-          - desc: "CANCELLED, ILLNESS"
+          - desc: "Designing an interface"
         pre_readings:
           - title: "Ch. 25, \"Animated Problem Solving\""
+  - week_offset: 14
+    homework:
+      - title: "Aliens Attack v.6/7"
+        out: W
+    sessions:
+      - day: M  # Monday
+        title: "Class cancelled - school closed" 
       - day: W  # Wednesday
         title: "Introduction to Distributed Programming"
         topics:
@@ -504,7 +528,7 @@ weeks:
           - desc: "2htdp/universe"
         pre_readings:
           - title: "Ch. 26, \"Animated Problem Solving\""
-  - week_offset: 14
+  - week_offset: 15
     homework:
       - title: "Aliens Attack v.6/7"
         out: W
@@ -531,7 +555,7 @@ weeks:
         pre_readings:
           - title: "Ch. 28, \"Animated Problem Solving\""
             link: ""
-  - week_offset: 15
+  - week_offset: 16
     homework:
       - title: "Aliens Attack v.8"
         starter_code: "lsp8"
@@ -543,17 +567,6 @@ weeks:
           - desc: "Aliens Attack v.8"
         pre_readings:
           - title: "Ch. 28, \"Animated Problem Solving\""
-        extra_resources:
-          - title: ""
-            link: ""
-      - day: W  # Wednesday
-        title: "Mutually Recursive Data"
-        topics:
-          - desc: ""
-        pre_readings:
-          - title: "Ch. 18 \"Animated Problem Solving\""
-          - title: "Ch. 19-§19.4 \"How to Design Programs\""
-            link: "https://htdp.org/2020-8-1/Book/part_four.html#%28part._ch~3apoetry-sexp%29"
         extra_resources:
           - title: ""
             link: ""
