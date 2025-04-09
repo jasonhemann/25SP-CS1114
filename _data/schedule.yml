@@ -472,6 +472,9 @@ weeks:
       - title: "Lambda abstractions ProblemSet"
         starter_code: "ps5"
         out: W
+      - title: "Aliens Attack v.4 Resubmit"
+        out: W
+        starter_code: "lsp4"
     sessions:
       - day: M  # Monday
         title: "Objects, object-oriented programming"
