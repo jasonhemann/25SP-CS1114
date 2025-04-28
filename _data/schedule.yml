@@ -517,32 +517,30 @@ weeks:
           - title: "Ch. 25, \"Animated Problem Solving\""
   - week_offset: 14
     homework:
-      - title: "Aliens Attack v.6/7"
-        out: W
     sessions:
       - day: M  # Monday
         title: "Class cancelled - school closed" 
       - day: W  # Wednesday
         title: "Introduction to Distributed Programming"
         topics:
-          - desc: "What is a distributed program?"
-          - desc: "Distributed programming model"
-          - desc: "Design recipe for distributed programming"
+          - desc: "Protocol diagrams and lifeline diagrams"
+          - desc: "Understanding the 2htdp/universe model"
+          - desc: "An example distributed programming application"
+          - desc: "ping, IP addresses, shell prompt"
           - desc: "2htdp/universe"
         pre_readings:
           - title: "Ch. 26, \"Animated Problem Solving\""
   - week_offset: 15
     homework:
-      - title: "Aliens Attack v.6/7"
-        out: W
+      - title: "Distributed Multiplayer tug-of-war, developed in class"
+        out: M
     sessions:
       - day: M  # Monday
-        title: "Aliens Attack v.6"
+        title: "Universe, distributed programming, and you"
         topics:
-          - desc: "Protocol diagrams and lifeline diagrams"
-          - desc: "Understanding the 2htdp/universe model"
-          - desc: "An example distributed programming application"
-          - desc: "ping, IP addresses, shell prompt"
+          - desc: "What is a distributed program?"
+          - desc: "Distributed programming model"
+          - desc: "Design recipe for distributed programming"
           - desc: "Preparing to make a game distributed"
         pre_readings:
           - title: "Ch. 27, \"Animated Problem Solving\""
@@ -560,9 +558,6 @@ weeks:
             link: ""
   - week_offset: 16
     homework:
-      - title: "Aliens Attack v.8"
-        starter_code: "lsp8"
-        out: M
     sessions:
       - day: M  # Monday
         title: "Aliens Attack v.8"
