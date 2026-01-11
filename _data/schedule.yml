@@ -1,8 +1,8 @@
-first_week_of_year_offset: 2 # Year starts on a Monday
+first_week_of_year_offset: 2 #
 semester_start: "2025-01-12T00:00:00-04:00" # Date of Sunday before start of semester
 semester_start_week: 4 # https://www.epochconverter.com/weeks/202X,
-dst_start_week: 10 # "2024-03-10T02:00:00-05:00"
-dst_end_week: 44 # "2024-11-05T02:00:00-04:00"
+dst_start_week: 10 # "2025-03-09T02:00:00-04:00"
+dst_end_week: 44 # "2025-11-02T02:00:00-04:00"
 weeks:
   - week_offset: 0
     # homework:
