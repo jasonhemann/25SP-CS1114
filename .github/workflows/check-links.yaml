@@ -1,0 +1,15 @@
+name: link-check
+on:
+  page_build:
+  workflow_dispatch:
+
+jobs:
+  linkinator:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check published links
+        uses: JustinBeckwith/linkinator-action@v2
+        with:
+          paths: https://hemann.pl/25SP-CS1114
+          config: linkinator.config.json
