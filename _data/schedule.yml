@@ -119,7 +119,7 @@ weeks:
           - title: "How to Design Functions, in slow motion"
             link: "https://www.youtube.com/watch?v=q6GwIWwKowU"
           - title: "BSL Table Design"
-            link: "http://cedar.sice.indiana.edu:35888/Beginning-Student-Tables/"
+            link: "https://github.com/samth/Beginning-Student-Tables"
           - title: "How to Design Functions (summary)"
             link: "https://docs.racket-lang.org/htdf/"
           - title: "The Design Recipe in short, for data and functions"
