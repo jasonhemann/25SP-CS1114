@@ -2,7 +2,9 @@
   "skip": [
     "https://stackoverflow.com/users/\\d+",
     "https://scholar.google.com",
-    "https://bitbucket.org/jhemann-shu"
+    "https://bitbucket.org/jhemann-shu",
+    "https://web\\.archive\\.org/web/.*",
+    "https://world\\.cs\\.brown\\.edu/?$"
   ],
   "statusCodes": {
     "403": "warn"
