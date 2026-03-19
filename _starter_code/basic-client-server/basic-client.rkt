@@ -212,4 +212,4 @@
                     (client "J2" "LOCALHOST"))
 
 (client "Jason" "10.22.164.175")
-"http://hemann.pl"
+"https://hemann.pl"
