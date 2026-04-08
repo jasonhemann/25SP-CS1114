@@ -8,6 +8,8 @@
 
 From within this directory, execute `bundle exec jekyll serve`
 
+(In some shell environments, you might need `LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8 bundle exec jekyll serve`.)
+
 ## Data
 
 Filed under [./_data/](./_data) are information about:
